@@ -1,0 +1,68 @@
+---
+title: "R Notebook"
+output:
+  html_notebook: default
+  pdf_document: default
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+# **Population effect for right BST**
+
+### effect: contrast of shock response between uncontrol and control paricipants
+
+```{r}
+library(brms) # for the analysis
+library(haven) # to load the SPSS .sav file
+library(tidyverse) # needed for data manipulation.
+library(RColorBrewer) # needed for some extra colours in one of the graphs
+library(ggmcmc)
+library(ggthemes)
+library(ggridges)
+```
+## **Model**
+$$Y = N(\mu, \sigma_{\epsilon}^{2})$$
+$$\mu = \alpha + \beta_{Tm}Tm + \beta_{TD}TD + \beta_{Sm}Sm+\beta_{Sd}Sd + \epsilon$$
+Where Tm, Td, Sm, and Sd are covariates.
+
+Tm: Trait mean
+Td: Triat difference (uncon - con)
+Sm: State mean
+Sd: State difference (uncon - con)
+
+## **Priors**
+
+$$N(0,100): \alpha$$
+$$N(0,100): \beta_{Tm}$$
+$$N(0,100): \beta_{Td}$$
+$$N(0,100): \beta_{Sm}$$
+$$N(0,100): \beta_{Sd}$$
+$$Cauchy(0,100): \sigma_{\epsilon}$$
+
+```{r}
+setwd("C:/Users/Chirag/Box/Box/UMD/Project_UMD/eCON/RBA/uncon_v_con_rBNST_with_covariates")
+
+df <- read.table('uncon_v_con_rBNST_with_covariates.txt',header=TRUE)
+prior1 <- c(prior(normal(0,100),class=Intercept),
+            prior(normal(0,100),class=b, coef="TRAITmean"),
+            prior(normal(0,100),class=b, coef="TRAITdiff"),
+            prior(normal(0,100),class=b, coef="STATEmean"),
+            prior(normal(0,100),class=b, coef="STATEdiff"),
+            prior(cauchy(0,100),class=sigma)
+           )
+
+bmod1 <- brm(Y ~ TRAITmean + TRAITdiff + STATEmean + STATEdiff, 
+             data = df, 
+             family = gaussian(),
+             prior = prior1, 
+             warmup = 2000, iter = 5000,
+             chains = 4,
+             cores  = 2)
+
+```
+## *Model Summary*
+```{r}
+summary(bmod1)
+```
