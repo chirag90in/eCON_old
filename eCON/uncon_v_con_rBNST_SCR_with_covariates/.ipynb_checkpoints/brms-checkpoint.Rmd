@@ -1,0 +1,252 @@
+---
+title: "R Notebook"
+output:
+  html_notebook: default
+  pdf_document: default
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+# **Right BST and SCR analysis**
+
+### effect: contrast of shock response between uncontrol and control participants
+
+```{r}
+library(brms) # for the analysis
+library(haven) # to load the SPSS .sav file
+library(tidyverse) # needed for data manipulation.
+library(RColorBrewer) # needed for some extra colours in one of the graphs
+library(ggmcmc)
+library(ggthemes)
+library(ggridges)
+```
+## **Model**
+$$Y = N(\mu, \sigma_{\epsilon}^{2})$$
+$$\mu = \beta_{0} + \beta_{scr}SCR + \beta_{Sm}Sm + \beta_{Sd}Sd + \beta_{Tm}Tm + \beta_{Td}Td + \epsilon$$
+Where SCR, Tm, Td, Sm, and Sd are covariates.  
+
+SCR: Skin conductance response  
+Sm: State mean  
+Sd: State difference (uncon - con)  
+Tm: Trait mean  
+Td: Triat difference (uncon - con)  
+
+
+## **Priors**
+
+$$N(0,100): \beta_{0}$$
+$$N(0,100): \beta_{SCR}$$
+$$N(0,100): \beta_{Sm}$$
+$$N(0,100): \beta_{Sd}$$
+$$N(0,100): \beta_{Tm}$$
+$$N(0,100): \beta_{Td}$$
+$$Cauchy(0,100): \sigma_{\epsilon}$$
+
+```{r}
+setwd("~/Pessoa_Lab/eCON/uncon_v_con_rBNST_SCR_with_covariates")
+
+df <- read.table('../data/uncon_v_con_rBNST_SCR_with_covariates.txt',header=TRUE)
+prior1 <- c(prior(normal(0,100),class=Intercept),
+            prior(normal(0,100),class=b, coef='SCR'),
+            prior(normal(0,100),class=b, coef="TRAITmean"),
+            prior(normal(0,100),class=b, coef="TRAITdiff"),
+            prior(normal(0,100),class=b, coef="STATEmean"),
+            prior(normal(0,100),class=b, coef="STATEdiff"),
+            prior(cauchy(0,100),class=sigma)
+           )
+
+bmod1 <- brm(y ~ SCR + TRAITmean + TRAITdiff + STATEmean + STATEdiff, 
+             data = df, 
+             family = gaussian(),
+             prior = prior1, 
+             warmup = 2000, iter = 5000,
+             chains = 4,
+             cores  = 2)
+
+```
+## **Model Summary**
+```{r}
+summary(bmod1)
+```
+## **Posteriors**
+```{r}
+data <- fixef(bmod1,summary = FALSE)
+#write.csv(data,file = 'posteriors.csv')
+```
+
+
+```{r}
+# IMPORT LIBRARIES:
+library(data.table)
+library(ggplot2)
+library(ggridges)
+library(dplyr)
+library(tidyr)
+library(scales)
+library(viridis)
+```
+
+
+```{r}
+rois <- colnames(data)
+#data$X <- NULL
+```
+
+
+```{r}
+nobj=dim(data)[1]
+
+# rename columns with ROI list
+
+
+data_stats = data.frame(1:length(rois))
+
+# create ROI column instead of numerics to match threat table above
+
+data_stats$ROI <- rois
+data_stats$mean <- colMeans(data)
+data_stats$P <- colSums(data > 0)/nobj
+data_stats$Pn <- data_stats$P
+
+
+for (i in 1:length(rois)) {
+  if (data_stats$P[i]<.5){data_stats$Pn[i]=1-data_stats$P[i]}
+}
+
+
+# this will order the distributions correctly
+data_stats <- data_stats[order(data_stats$mean),]
+
+
+
+data_trans <- as.data.frame(t(as.matrix(data)))
+data_trans <- tibble::rownames_to_column(data_trans, "ROI")
+data_trans$X <- 1:nrow(data_trans)
+
+
+
+
+# merge values & stats into one table by ROI
+
+data_merge <- merge(data_stats, data_trans, by = "ROI")
+data_merge <- data_merge[order(data_merge$X),]
+
+# Transform data into long form
+
+
+# Melt dataframe by ROI
+library(data.table)
+
+data_long <- melt(data_trans, id=c("ROI","X"))
+#threat_long <- melt(threat_trans, id=c("ROI","X.x"))
+
+
+data_long <- data_long[order(data_long$X),]
+
+
+# This is incredibly clunky, but for the sake of time adding stats by ensuring orders are all the same and repeating each value 2000 times... Tried a few different methods with no success for some reason. 
+
+data_long$mean <- rep(data_merge$mean, each = nobj)
+data_long$P <- rep(data_merge$P, each =nobj)
+data_long$Pn <- rep(data_merge$Pn, each =nobj)
+
+```
+
+```{r}
+
+# set your labels here so you don't have to change within the plot below: 
+format(round(1, 2), nsmall = 2)
+y.axis.labs <- format(round(data_stats$P,2), nsmall = 2)                        # y axis labels
+sec.y.axis.labs <- data_stats$ROI                             # second y axis labels (probabilities)
+
+
+ # X AXIS LABELS NEED TO CHANGE TO CORRESPOND TO DATA SET! UNCOMMENT WHICHEVER MATCHES
+
+# Uncomment for THREAT
+x.axis.labs <- c( "control > uncontrol", "0", "uncontrol > control")                 # x axis labels  THREAT
+x.labs.pos <- c(-0.2, 0, 0.2)                                             # x axis position THREAT
+
+
+# Uncomment for VALENCE
+#x.axis.labs <- c("Neutral > Positive", "0", "Positive > Neutral")         # x axis labels  VALENCE
+#x.labs.pos  <- c(-0.1,0,0.2)                                              # x axis position VALENCE
+
+# Uncomment for INTERACTION
+#x.axis.labs <- NULL                                                       # x axis labels  INTERACTION, not sure what to put.
+#x.labs.pos <- NULL                                                        # a axis position INTERACTION, change when labels decided
+
+#graph.title <- data.name                                   # graph title 
+legend.title <- "Probability"                              # legend title
+y.axis.title <- NULL                                       # for now ...
+x.axis.title <- NULL                                       # for now...
+
+# GRAPH DATA 
+dataset <- data_long
+x.values <- data_long$value                               # x values
+y.values <- data_long$ROI                                 # y values
+y.values.RO <- data_long$value                            # values to reorder Y by
+distrib.fill <- data_long$Pn                              # fill graph with probabilities
+group <- data_long$ROI
+
+# Other aspects
+gradient.colors <- c("yellow","#C9182B","#41245C")        # change gradient colors here (currently, yellow - purple)
+label.size <- 12                                         # adjust ROI and probability y-axis font size
+title.size <- 28                                          # adjust graph title size 
+x.axis.size <- 12                                        # adjust x-axis label sizes
+
+# here is where you can change information about the graph and add other characteristics using ggplot and ggridges
+
+
+ggplot(dataset, aes(x = x.values, y = as.numeric(reorder(y.values, y.values.RO)), 
+                    fill = distrib.fill, group = group)) +                        # scale = spacing, alpha = transparency
+  coord_cartesian(xlim = c(-0.5, 0.5)) +
+  stat_density_ridges(quantile_lines = TRUE, 
+                      quantiles = 2, 
+                      alpha = .95, 
+                      scale = 2.55,
+                      color = "black",
+                      size = .35
+                     ) +            # divide into two quantiles (show mean)
+  geom_vline(xintercept = 0, linetype="solid",color = "black",alpha = .95, size = .45) +    #create line at X = 0
+  scale_fill_gradientn(colors = viridis_pal(direction = 1, option = "inferno")(20),                         # set gradient
+                       limits = c(.85,1),                                # which probabilites matter?
+                       na.value = "#909497",                                # if not in limits, gray out
+                       name = legend.title) +                            # name legend
+  scale_y_continuous(breaks = 1:length(rois),                            # A VERY HACK-Y WAY TO HAVE TWO Y AXES W DISCRETE DATA
+                     expand = c(0,0),
+                     labels = y.axis.labs,                               # Trick ggplot into thinking data is continuous...
+                     sec.axis = sec_axis(~.,                             # Second axis to show probabilities
+                                         breaks = 1:length(rois),
+                                         labels = sec.y.axis.labs)) +
+  #theme_ridges(font_size = label.size, grid = TRUE, center_axis_labels = TRUE) +  # theme info
+  #ggtitle(graph.title)+ 
+  #theme_bw() +# graph title
+ #theme_ridges(grid = FALSE) + 
+  theme(   
+    panel.background = element_blank(),
+    legend.position = "none",
+    #panel.grid.major.y = element_line(color = "grey"), 
+    plot.title = element_text(hjust = 0.5, size = title.size),            # plot title size and position
+    axis.text.y = element_text(size=label.size),                               # y-axis text size
+    axis.line.x = element_line(color = "gray"),
+    axis.text.y.right = element_text(size = label.size),                  # y-axis info for right axis
+    axis.text.x = element_text(size = x.axis.size),
+    #plot.margin = unit(c(0,0,0,0), "cm"),
+    axis.ticks.x = element_blank(),
+    axis.ticks.y = element_blank(),
+    legend.title.align = 5)+
+  guides(shape = guide_legend(label.position = "bottom",
+                              title.positon = "bottom",
+                              title.vjust = 0.4)) +          
+  labs(
+    x = NULL,                                                         # Add or not add X and Y labels
+    y = NULL) +
+  scale_x_continuous(breaks = x.labs.pos, labels = c(x.axis.labs))
+
+#ggsave(file = paste0(strsplit(type,'.RData'),".jpg", sep=""), width=4.5, height=3, units = "in", dpi = 900)
+
+# preview will look smooshed, be sure to look at the saved .jpg before making any changes to text size, etc!
+#graph
+```
