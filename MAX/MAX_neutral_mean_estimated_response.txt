@@ -1,0 +1,1225 @@
+Type,ROI,Time,mean,sem,lower_bound,upper_bound
+safe,ACC,0.0000,-0.0177,0.0105,-0.0385,0.0030
+safe,ACC,1.2500,-0.0423,0.0129,-0.0679,-0.0167
+safe,ACC,2.5000,-0.0273,0.0172,-0.0614,0.0068
+safe,ACC,3.7500,-0.0157,0.0180,-0.0514,0.0200
+safe,ACC,5.0000,-0.0095,0.0187,-0.0465,0.0276
+safe,ACC,6.2500,-0.0271,0.0182,-0.0631,0.0089
+safe,ACC,7.5000,-0.0374,0.0169,-0.0710,-0.0039
+safe,ACC,8.7500,-0.0426,0.0180,-0.0782,-0.0069
+safe,ACC,10.0000,-0.0368,0.0170,-0.0706,-0.0030
+safe,ACC,11.2500,-0.0365,0.0165,-0.0692,-0.0038
+safe,ACC,12.5000,-0.0285,0.0157,-0.0596,0.0026
+safe,ACC,13.7500,-0.0246,0.0166,-0.0575,0.0084
+safe,ACC,15.0000,-0.0171,0.0179,-0.0526,0.0183
+safe,ACC,16.2500,0.0163,0.0177,-0.0188,0.0514
+safe,ACC,17.5000,0.0131,0.0170,-0.0206,0.0468
+safe,ACC,18.7500,-0.0075,0.0149,-0.0370,0.0220
+safe,ACC,20.0000,0.0165,0.0116,-0.0064,0.0395
+safe,Left AntDorsal Insula,0.0000,-0.0288,0.0113,-0.0512,-0.0064
+safe,Left AntDorsal Insula,1.2500,-0.0187,0.0129,-0.0442,0.0069
+safe,Left AntDorsal Insula,2.5000,0.0131,0.0117,-0.0102,0.0363
+safe,Left AntDorsal Insula,3.7500,0.0659,0.0129,0.0402,0.0915
+safe,Left AntDorsal Insula,5.0000,0.0800,0.0128,0.0545,0.1055
+safe,Left AntDorsal Insula,6.2500,0.0495,0.0135,0.0228,0.0762
+safe,Left AntDorsal Insula,7.5000,0.0360,0.0128,0.0106,0.0614
+safe,Left AntDorsal Insula,8.7500,0.0118,0.0132,-0.0143,0.0380
+safe,Left AntDorsal Insula,10.0000,-0.0002,0.0136,-0.0272,0.0267
+safe,Left AntDorsal Insula,11.2500,0.0040,0.0131,-0.0221,0.0300
+safe,Left AntDorsal Insula,12.5000,-0.0054,0.0129,-0.0311,0.0202
+safe,Left AntDorsal Insula,13.7500,-0.0091,0.0128,-0.0345,0.0163
+safe,Left AntDorsal Insula,15.0000,-0.0002,0.0129,-0.0258,0.0253
+safe,Left AntDorsal Insula,16.2500,-0.0061,0.0136,-0.0331,0.0208
+safe,Left AntDorsal Insula,17.5000,-0.0097,0.0132,-0.0359,0.0164
+safe,Left AntDorsal Insula,18.7500,0.0003,0.0122,-0.0240,0.0246
+safe,Left AntDorsal Insula,20.0000,0.0630,0.0111,0.0410,0.0850
+safe,Left AntVentral Insula,0.0000,-0.0131,0.0166,-0.0460,0.0198
+safe,Left AntVentral Insula,1.2500,-0.0178,0.0178,-0.0532,0.0175
+safe,Left AntVentral Insula,2.5000,0.0170,0.0176,-0.0179,0.0519
+safe,Left AntVentral Insula,3.7500,0.0629,0.0187,0.0259,0.1000
+safe,Left AntVentral Insula,5.0000,0.0691,0.0237,0.0221,0.1160
+safe,Left AntVentral Insula,6.2500,0.0616,0.0218,0.0185,0.1047
+safe,Left AntVentral Insula,7.5000,0.0261,0.0230,-0.0194,0.0716
+safe,Left AntVentral Insula,8.7500,0.0172,0.0208,-0.0240,0.0584
+safe,Left AntVentral Insula,10.0000,0.0139,0.0205,-0.0266,0.0545
+safe,Left AntVentral Insula,11.2500,0.0133,0.0225,-0.0313,0.0580
+safe,Left AntVentral Insula,12.5000,0.0275,0.0237,-0.0195,0.0745
+safe,Left AntVentral Insula,13.7500,0.0222,0.0233,-0.0240,0.0684
+safe,Left AntVentral Insula,15.0000,0.0272,0.0224,-0.0173,0.0716
+safe,Left AntVentral Insula,16.2500,0.0393,0.0203,-0.0010,0.0795
+safe,Left AntVentral Insula,17.5000,0.0302,0.0215,-0.0123,0.0727
+safe,Left AntVentral Insula,18.7500,0.0478,0.0235,0.0012,0.0944
+safe,Left AntVentral Insula,20.0000,0.0811,0.0174,0.0466,0.1156
+safe,Left Anterior  Putamen,0.0000,-0.0275,0.0120,-0.0513,-0.0037
+safe,Left Anterior  Putamen,1.2500,-0.0524,0.0165,-0.0850,-0.0198
+safe,Left Anterior  Putamen,2.5000,-0.0547,0.0154,-0.0851,-0.0242
+safe,Left Anterior  Putamen,3.7500,-0.0297,0.0160,-0.0615,0.0021
+safe,Left Anterior  Putamen,5.0000,0.0136,0.0194,-0.0249,0.0521
+safe,Left Anterior  Putamen,6.2500,0.0210,0.0195,-0.0177,0.0597
+safe,Left Anterior  Putamen,7.5000,-0.0039,0.0190,-0.0416,0.0337
+safe,Left Anterior  Putamen,8.7500,-0.0123,0.0188,-0.0496,0.0250
+safe,Left Anterior  Putamen,10.0000,-0.0363,0.0178,-0.0716,-0.0010
+safe,Left Anterior  Putamen,11.2500,-0.0545,0.0184,-0.0909,-0.0180
+safe,Left Anterior  Putamen,12.5000,-0.0622,0.0176,-0.0972,-0.0272
+safe,Left Anterior  Putamen,13.7500,-0.0704,0.0199,-0.1098,-0.0311
+safe,Left Anterior  Putamen,15.0000,-0.0459,0.0188,-0.0831,-0.0086
+safe,Left Anterior  Putamen,16.2500,-0.0480,0.0184,-0.0845,-0.0116
+safe,Left Anterior  Putamen,17.5000,-0.0477,0.0183,-0.0839,-0.0114
+safe,Left Anterior  Putamen,18.7500,-0.0485,0.0184,-0.0849,-0.0120
+safe,Left Anterior  Putamen,20.0000,0.0446,0.0140,0.0168,0.0724
+safe,Left Anterior Caudate,0.0000,-0.0193,0.0105,-0.0401,0.0015
+safe,Left Anterior Caudate,1.2500,-0.0678,0.0142,-0.0959,-0.0398
+safe,Left Anterior Caudate,2.5000,-0.0729,0.0160,-0.1046,-0.0412
+safe,Left Anterior Caudate,3.7500,-0.0562,0.0184,-0.0926,-0.0197
+safe,Left Anterior Caudate,5.0000,-0.0398,0.0184,-0.0764,-0.0033
+safe,Left Anterior Caudate,6.2500,-0.0101,0.0197,-0.0492,0.0290
+safe,Left Anterior Caudate,7.5000,-0.0159,0.0174,-0.0504,0.0187
+safe,Left Anterior Caudate,8.7500,-0.0276,0.0184,-0.0641,0.0088
+safe,Left Anterior Caudate,10.0000,-0.0402,0.0182,-0.0763,-0.0042
+safe,Left Anterior Caudate,11.2500,-0.0547,0.0181,-0.0906,-0.0187
+safe,Left Anterior Caudate,12.5000,-0.0539,0.0199,-0.0933,-0.0145
+safe,Left Anterior Caudate,13.7500,-0.0526,0.0182,-0.0887,-0.0166
+safe,Left Anterior Caudate,15.0000,-0.0388,0.0195,-0.0775,-0.0002
+safe,Left Anterior Caudate,16.2500,-0.0261,0.0193,-0.0644,0.0122
+safe,Left Anterior Caudate,17.5000,-0.0347,0.0173,-0.0690,-0.0005
+safe,Left Anterior Caudate,18.7500,-0.0358,0.0154,-0.0663,-0.0054
+safe,Left Anterior Caudate,20.0000,0.0235,0.0125,-0.0013,0.0484
+safe,Left Anterior MCC,0.0000,-0.0348,0.0118,-0.0581,-0.0115
+safe,Left Anterior MCC,1.2500,-0.0687,0.0164,-0.1012,-0.0363
+safe,Left Anterior MCC,2.5000,-0.0696,0.0185,-0.1062,-0.0330
+safe,Left Anterior MCC,3.7500,0.0012,0.0195,-0.0373,0.0398
+safe,Left Anterior MCC,5.0000,0.0498,0.0212,0.0078,0.0919
+safe,Left Anterior MCC,6.2500,0.0294,0.0199,-0.0100,0.0689
+safe,Left Anterior MCC,7.5000,-0.0032,0.0189,-0.0407,0.0342
+safe,Left Anterior MCC,8.7500,-0.0115,0.0190,-0.0490,0.0261
+safe,Left Anterior MCC,10.0000,-0.0252,0.0187,-0.0623,0.0119
+safe,Left Anterior MCC,11.2500,-0.0355,0.0188,-0.0729,0.0018
+safe,Left Anterior MCC,12.5000,-0.0335,0.0188,-0.0708,0.0037
+safe,Left Anterior MCC,13.7500,-0.0197,0.0201,-0.0595,0.0201
+safe,Left Anterior MCC,15.0000,-0.0184,0.0197,-0.0573,0.0206
+safe,Left Anterior MCC,16.2500,-0.0375,0.0188,-0.0747,-0.0002
+safe,Left Anterior MCC,17.5000,-0.0486,0.0184,-0.0851,-0.0121
+safe,Left Anterior MCC,18.7500,-0.0897,0.0176,-0.1246,-0.0549
+safe,Left Anterior MCC,20.0000,0.0129,0.0126,-0.0121,0.0379
+safe,Left Anterior Thalamus,0.0000,0.1191,0.1310,-0.1407,0.3788
+safe,Left Anterior Thalamus,1.2500,0.0701,0.1244,-0.1764,0.3166
+safe,Left Anterior Thalamus,2.5000,-0.0105,0.0813,-0.1718,0.1507
+safe,Left Anterior Thalamus,3.7500,-0.0999,0.0184,-0.1365,-0.0633
+safe,Left Anterior Thalamus,5.0000,-0.0214,0.0728,-0.1656,0.1228
+safe,Left Anterior Thalamus,6.2500,0.0504,0.1220,-0.1915,0.2923
+safe,Left Anterior Thalamus,7.5000,0.0287,0.1079,-0.1851,0.2426
+safe,Left Anterior Thalamus,8.7500,-0.0545,0.0301,-0.1142,0.0052
+safe,Left Anterior Thalamus,10.0000,-0.1232,0.0306,-0.1839,-0.0626
+safe,Left Anterior Thalamus,11.2500,-0.0335,0.0695,-0.1712,0.1042
+safe,Left Anterior Thalamus,12.5000,-0.1454,0.0384,-0.2215,-0.0692
+safe,Left Anterior Thalamus,13.7500,-0.2112,0.1102,-0.4296,0.0072
+safe,Left Anterior Thalamus,15.0000,-0.0358,0.0593,-0.1533,0.0818
+safe,Left Anterior Thalamus,16.2500,-0.0464,0.0283,-0.1025,0.0096
+safe,Left Anterior Thalamus,17.5000,-0.1519,0.0854,-0.3213,0.0174
+safe,Left Anterior Thalamus,18.7500,-0.0255,0.0489,-0.1226,0.0715
+safe,Left Anterior Thalamus,20.0000,0.0683,0.0814,-0.0930,0.2295
+safe,Left BLBM Amygdala,0.0000,-0.0192,0.0435,-0.1054,0.0669
+safe,Left BLBM Amygdala,1.2500,0.0310,0.0337,-0.0358,0.0979
+safe,Left BLBM Amygdala,2.5000,-0.0520,0.0458,-0.1428,0.0388
+safe,Left BLBM Amygdala,3.7500,-0.0446,0.0619,-0.1672,0.0780
+safe,Left BLBM Amygdala,5.0000,-0.0100,0.0649,-0.1386,0.1185
+safe,Left BLBM Amygdala,6.2500,-0.0025,0.0474,-0.0964,0.0915
+safe,Left BLBM Amygdala,7.5000,-0.0039,0.0434,-0.0899,0.0821
+safe,Left BLBM Amygdala,8.7500,0.0198,0.0563,-0.0917,0.1314
+safe,Left BLBM Amygdala,10.0000,-0.0007,0.0731,-0.1456,0.1442
+safe,Left BLBM Amygdala,11.2500,-0.0141,0.0658,-0.1446,0.1164
+safe,Left BLBM Amygdala,12.5000,-0.0275,0.0754,-0.1769,0.1219
+safe,Left BLBM Amygdala,13.7500,0.0160,0.0829,-0.1482,0.1803
+safe,Left BLBM Amygdala,15.0000,-0.0098,0.0656,-0.1397,0.1202
+safe,Left BLBM Amygdala,16.2500,0.0439,0.0510,-0.0571,0.1449
+safe,Left BLBM Amygdala,17.5000,0.0119,0.0780,-0.1427,0.1666
+safe,Left BLBM Amygdala,18.7500,-0.0172,0.0525,-0.1213,0.0869
+safe,Left BLBM Amygdala,20.0000,-0.0030,0.0889,-0.1791,0.1731
+safe,Left BST,0.0000,0.0558,0.0381,-0.0197,0.1312
+safe,Left BST,1.2500,-0.0665,0.0420,-0.1498,0.0169
+safe,Left BST,2.5000,-0.0790,0.0456,-0.1694,0.0115
+safe,Left BST,3.7500,-0.0342,0.0507,-0.1347,0.0664
+safe,Left BST,5.0000,0.0435,0.0571,-0.0697,0.1566
+safe,Left BST,6.2500,-0.0018,0.0494,-0.0997,0.0960
+safe,Left BST,7.5000,-0.0269,0.0505,-0.1270,0.0731
+safe,Left BST,8.7500,0.0251,0.0526,-0.0792,0.1294
+safe,Left BST,10.0000,0.0357,0.0571,-0.0775,0.1489
+safe,Left BST,11.2500,-0.0037,0.0512,-0.1053,0.0978
+safe,Left BST,12.5000,-0.0656,0.0521,-0.1690,0.0378
+safe,Left BST,13.7500,0.0158,0.0496,-0.0825,0.1142
+safe,Left BST,15.0000,0.0670,0.0495,-0.0312,0.1652
+safe,Left BST,16.2500,0.0261,0.0501,-0.0733,0.1254
+safe,Left BST,17.5000,0.0381,0.0417,-0.0445,0.1207
+safe,Left BST,18.7500,0.0522,0.0484,-0.0437,0.1482
+safe,Left BST,20.0000,0.0811,0.0434,-0.0049,0.1670
+safe,Left CeMe Amygdala,0.0000,-0.0084,0.0309,-0.0698,0.0529
+safe,Left CeMe Amygdala,1.2500,-0.0312,0.0294,-0.0894,0.0270
+safe,Left CeMe Amygdala,2.5000,-0.0191,0.0317,-0.0818,0.0437
+safe,Left CeMe Amygdala,3.7500,0.0039,0.0287,-0.0530,0.0608
+safe,Left CeMe Amygdala,5.0000,0.0064,0.0335,-0.0599,0.0728
+safe,Left CeMe Amygdala,6.2500,0.0111,0.0324,-0.0531,0.0753
+safe,Left CeMe Amygdala,7.5000,0.0203,0.0355,-0.0501,0.0906
+safe,Left CeMe Amygdala,8.7500,0.0045,0.0354,-0.0657,0.0748
+safe,Left CeMe Amygdala,10.0000,0.0091,0.0392,-0.0685,0.0867
+safe,Left CeMe Amygdala,11.2500,0.0186,0.0330,-0.0468,0.0840
+safe,Left CeMe Amygdala,12.5000,0.0344,0.0338,-0.0325,0.1013
+safe,Left CeMe Amygdala,13.7500,0.0276,0.0352,-0.0422,0.0974
+safe,Left CeMe Amygdala,15.0000,0.0377,0.0347,-0.0311,0.1066
+safe,Left CeMe Amygdala,16.2500,0.0875,0.0343,0.0194,0.1555
+safe,Left CeMe Amygdala,17.5000,0.0775,0.0355,0.0072,0.1478
+safe,Left CeMe Amygdala,18.7500,0.0135,0.0313,-0.0484,0.0755
+safe,Left CeMe Amygdala,20.0000,0.0302,0.0266,-0.0225,0.0829
+safe,Left Hypothalamus,0.0000,0.0357,0.0466,-0.0566,0.1280
+safe,Left Hypothalamus,1.2500,-0.0238,0.0386,-0.1003,0.0527
+safe,Left Hypothalamus,2.5000,0.0109,0.0417,-0.0718,0.0936
+safe,Left Hypothalamus,3.7500,0.0209,0.0450,-0.0684,0.1102
+safe,Left Hypothalamus,5.0000,0.0338,0.0455,-0.0564,0.1239
+safe,Left Hypothalamus,6.2500,0.0406,0.0473,-0.0531,0.1342
+safe,Left Hypothalamus,7.5000,-0.0326,0.0402,-0.1123,0.0471
+safe,Left Hypothalamus,8.7500,0.0806,0.0396,0.0021,0.1592
+safe,Left Hypothalamus,10.0000,0.0329,0.0421,-0.0505,0.1164
+safe,Left Hypothalamus,11.2500,-0.0270,0.0478,-0.1218,0.0678
+safe,Left Hypothalamus,12.5000,0.0631,0.0476,-0.0313,0.1575
+safe,Left Hypothalamus,13.7500,0.0568,0.0446,-0.0317,0.1453
+safe,Left Hypothalamus,15.0000,0.0543,0.0428,-0.0305,0.1391
+safe,Left Hypothalamus,16.2500,0.0166,0.0469,-0.0764,0.1095
+safe,Left Hypothalamus,17.5000,0.0230,0.0464,-0.0691,0.1150
+safe,Left Hypothalamus,18.7500,0.0310,0.0390,-0.0463,0.1084
+safe,Left Hypothalamus,20.0000,0.0306,0.0427,-0.0541,0.1153
+safe,Left MidPost Insula,0.0000,-0.0051,0.0083,-0.0216,0.0114
+safe,Left MidPost Insula,1.2500,-0.0263,0.0110,-0.0480,-0.0045
+safe,Left MidPost Insula,2.5000,-0.0186,0.0118,-0.0419,0.0048
+safe,Left MidPost Insula,3.7500,0.0023,0.0128,-0.0231,0.0278
+safe,Left MidPost Insula,5.0000,0.0254,0.0134,-0.0011,0.0519
+safe,Left MidPost Insula,6.2500,0.0173,0.0143,-0.0109,0.0456
+safe,Left MidPost Insula,7.5000,0.0193,0.0140,-0.0084,0.0470
+safe,Left MidPost Insula,8.7500,0.0130,0.0132,-0.0132,0.0392
+safe,Left MidPost Insula,10.0000,0.0177,0.0126,-0.0072,0.0426
+safe,Left MidPost Insula,11.2500,0.0134,0.0122,-0.0108,0.0377
+safe,Left MidPost Insula,12.5000,0.0244,0.0133,-0.0020,0.0508
+safe,Left MidPost Insula,13.7500,0.0159,0.0121,-0.0081,0.0399
+safe,Left MidPost Insula,15.0000,0.0084,0.0131,-0.0176,0.0343
+safe,Left MidPost Insula,16.2500,0.0150,0.0125,-0.0099,0.0398
+safe,Left MidPost Insula,17.5000,0.0000,0.0125,-0.0247,0.0247
+safe,Left MidPost Insula,18.7500,-0.0053,0.0125,-0.0301,0.0195
+safe,Left MidPost Insula,20.0000,0.0165,0.0096,-0.0024,0.0355
+safe,Left PAG,0.0000,-0.0236,0.0331,-0.0892,0.0421
+safe,Left PAG,1.2500,-0.0405,0.0337,-0.1073,0.0264
+safe,Left PAG,2.5000,-0.0314,0.0330,-0.0968,0.0340
+safe,Left PAG,3.7500,-0.0396,0.0308,-0.1007,0.0215
+safe,Left PAG,5.0000,-0.0476,0.0306,-0.1082,0.0131
+safe,Left PAG,6.2500,-0.0256,0.0349,-0.0949,0.0437
+safe,Left PAG,7.5000,-0.0686,0.0301,-0.1282,-0.0091
+safe,Left PAG,8.7500,-0.0214,0.0299,-0.0807,0.0379
+safe,Left PAG,10.0000,-0.0592,0.0303,-0.1193,0.0009
+safe,Left PAG,11.2500,-0.0607,0.0303,-0.1208,-0.0006
+safe,Left PAG,12.5000,-0.0842,0.0313,-0.1463,-0.0221
+safe,Left PAG,13.7500,-0.0744,0.0290,-0.1318,-0.0170
+safe,Left PAG,15.0000,-0.0296,0.0326,-0.0943,0.0350
+safe,Left PAG,16.2500,-0.0343,0.0328,-0.0993,0.0306
+safe,Left PAG,17.5000,-0.0748,0.0285,-0.1313,-0.0182
+safe,Left PAG,18.7500,0.0148,0.0294,-0.0434,0.0730
+safe,Left PAG,20.0000,0.0837,0.0289,0.0264,0.1411
+safe,Left Posterior Caudate,0.0000,-0.0170,0.0125,-0.0418,0.0077
+safe,Left Posterior Caudate,1.2500,-0.0733,0.0183,-0.1096,-0.0371
+safe,Left Posterior Caudate,2.5000,-0.1291,0.0180,-0.1649,-0.0933
+safe,Left Posterior Caudate,3.7500,-0.1668,0.0181,-0.2027,-0.1308
+safe,Left Posterior Caudate,5.0000,-0.1404,0.0206,-0.1814,-0.0995
+safe,Left Posterior Caudate,6.2500,-0.0986,0.0229,-0.1441,-0.0531
+safe,Left Posterior Caudate,7.5000,-0.0684,0.0230,-0.1140,-0.0228
+safe,Left Posterior Caudate,8.7500,-0.0445,0.0216,-0.0873,-0.0017
+safe,Left Posterior Caudate,10.0000,-0.0546,0.0211,-0.0963,-0.0128
+safe,Left Posterior Caudate,11.2500,-0.0582,0.0208,-0.0995,-0.0169
+safe,Left Posterior Caudate,12.5000,-0.0711,0.0199,-0.1107,-0.0316
+safe,Left Posterior Caudate,13.7500,-0.0814,0.0200,-0.1211,-0.0417
+safe,Left Posterior Caudate,15.0000,-0.0747,0.0203,-0.1149,-0.0345
+safe,Left Posterior Caudate,16.2500,-0.0555,0.0195,-0.0942,-0.0169
+safe,Left Posterior Caudate,17.5000,-0.0591,0.0197,-0.0982,-0.0201
+safe,Left Posterior Caudate,18.7500,-0.0684,0.0178,-0.1036,-0.0332
+safe,Left Posterior Caudate,20.0000,-0.0507,0.0135,-0.0775,-0.0239
+safe,Left Posterior Putamen,0.0000,-0.0385,0.0166,-0.0714,-0.0056
+safe,Left Posterior Putamen,1.2500,-0.0839,0.0195,-0.1225,-0.0452
+safe,Left Posterior Putamen,2.5000,-0.0704,0.0184,-0.1070,-0.0339
+safe,Left Posterior Putamen,3.7500,-0.0739,0.0206,-0.1148,-0.0329
+safe,Left Posterior Putamen,5.0000,-0.0420,0.0229,-0.0873,0.0034
+safe,Left Posterior Putamen,6.2500,-0.0148,0.0257,-0.0657,0.0361
+safe,Left Posterior Putamen,7.5000,-0.0134,0.0248,-0.0626,0.0358
+safe,Left Posterior Putamen,8.7500,-0.0376,0.0232,-0.0835,0.0084
+safe,Left Posterior Putamen,10.0000,-0.0632,0.0223,-0.1075,-0.0189
+safe,Left Posterior Putamen,11.2500,-0.0805,0.0227,-0.1256,-0.0355
+safe,Left Posterior Putamen,12.5000,-0.0800,0.0217,-0.1230,-0.0369
+safe,Left Posterior Putamen,13.7500,-0.0650,0.0206,-0.1059,-0.0241
+safe,Left Posterior Putamen,15.0000,-0.0674,0.0216,-0.1102,-0.0247
+safe,Left Posterior Putamen,16.2500,-0.0616,0.0221,-0.1054,-0.0178
+safe,Left Posterior Putamen,17.5000,-0.0603,0.0238,-0.1074,-0.0132
+safe,Left Posterior Putamen,18.7500,-0.0933,0.0234,-0.1398,-0.0469
+safe,Left Posterior Putamen,20.0000,0.0228,0.0182,-0.0132,0.0588
+safe,Left Posterior Thalamus,0.0000,-0.0225,0.0106,-0.0436,-0.0014
+safe,Left Posterior Thalamus,1.2500,-0.0388,0.0129,-0.0644,-0.0133
+safe,Left Posterior Thalamus,2.5000,-0.0411,0.0134,-0.0677,-0.0145
+safe,Left Posterior Thalamus,3.7500,0.0014,0.0143,-0.0269,0.0298
+safe,Left Posterior Thalamus,5.0000,0.0068,0.0166,-0.0262,0.0397
+safe,Left Posterior Thalamus,6.2500,0.0230,0.0148,-0.0064,0.0523
+safe,Left Posterior Thalamus,7.5000,0.0060,0.0155,-0.0248,0.0368
+safe,Left Posterior Thalamus,8.7500,0.0007,0.0154,-0.0297,0.0312
+safe,Left Posterior Thalamus,10.0000,-0.0261,0.0152,-0.0562,0.0040
+safe,Left Posterior Thalamus,11.2500,-0.0384,0.0144,-0.0670,-0.0098
+safe,Left Posterior Thalamus,12.5000,-0.0369,0.0142,-0.0650,-0.0087
+safe,Left Posterior Thalamus,13.7500,-0.0290,0.0140,-0.0567,-0.0012
+safe,Left Posterior Thalamus,15.0000,-0.0171,0.0163,-0.0493,0.0151
+safe,Left Posterior Thalamus,16.2500,-0.0070,0.0140,-0.0348,0.0209
+safe,Left Posterior Thalamus,17.5000,-0.0311,0.0140,-0.0588,-0.0034
+safe,Left Posterior Thalamus,18.7500,-0.0224,0.0131,-0.0484,0.0035
+safe,Left Posterior Thalamus,20.0000,0.0484,0.0123,0.0241,0.0728
+safe,Left Ventral Striatum,0.0000,-0.0186,0.0133,-0.0449,0.0077
+safe,Left Ventral Striatum,1.2500,-0.0486,0.0166,-0.0816,-0.0156
+safe,Left Ventral Striatum,2.5000,-0.0668,0.0182,-0.1028,-0.0307
+safe,Left Ventral Striatum,3.7500,-0.0501,0.0181,-0.0860,-0.0141
+safe,Left Ventral Striatum,5.0000,-0.0720,0.0197,-0.1110,-0.0330
+safe,Left Ventral Striatum,6.2500,-0.0539,0.0200,-0.0936,-0.0143
+safe,Left Ventral Striatum,7.5000,-0.0529,0.0204,-0.0933,-0.0124
+safe,Left Ventral Striatum,8.7500,-0.0420,0.0200,-0.0816,-0.0024
+safe,Left Ventral Striatum,10.0000,-0.0418,0.0209,-0.0832,-0.0004
+safe,Left Ventral Striatum,11.2500,-0.0595,0.0185,-0.0961,-0.0228
+safe,Left Ventral Striatum,12.5000,-0.0453,0.0202,-0.0854,-0.0052
+safe,Left Ventral Striatum,13.7500,-0.0336,0.0192,-0.0717,0.0045
+safe,Left Ventral Striatum,15.0000,-0.0068,0.0176,-0.0417,0.0281
+safe,Left Ventral Striatum,16.2500,0.0050,0.0185,-0.0316,0.0417
+safe,Left Ventral Striatum,17.5000,0.0112,0.0186,-0.0257,0.0482
+safe,Left Ventral Striatum,18.7500,0.0081,0.0183,-0.0282,0.0444
+safe,Left Ventral Striatum,20.0000,0.0463,0.0157,0.0152,0.0775
+safe,PCC,0.0000,0.0480,0.0210,0.0064,0.0896
+safe,PCC,1.2500,0.0295,0.0241,-0.0182,0.0773
+safe,PCC,2.5000,-0.0014,0.0286,-0.0581,0.0554
+safe,PCC,3.7500,-0.0375,0.0339,-0.1047,0.0296
+safe,PCC,5.0000,-0.0021,0.0356,-0.0726,0.0684
+safe,PCC,6.2500,0.0139,0.0362,-0.0578,0.0857
+safe,PCC,7.5000,0.0329,0.0339,-0.0343,0.1001
+safe,PCC,8.7500,0.0065,0.0322,-0.0574,0.0703
+safe,PCC,10.0000,0.0110,0.0332,-0.0548,0.0768
+safe,PCC,11.2500,0.0021,0.0342,-0.0657,0.0698
+safe,PCC,12.5000,0.0140,0.0331,-0.0516,0.0796
+safe,PCC,13.7500,0.0522,0.0334,-0.0140,0.1185
+safe,PCC,15.0000,0.0652,0.0322,0.0014,0.1291
+safe,PCC,16.2500,0.0990,0.0370,0.0256,0.1724
+safe,PCC,17.5000,0.1123,0.0358,0.0414,0.1833
+safe,PCC,18.7500,0.0765,0.0323,0.0126,0.1405
+safe,PCC,20.0000,0.0734,0.0247,0.0244,0.1223
+safe,PCC/precuneus,0.0000,-0.0205,0.0262,-0.0725,0.0316
+safe,PCC/precuneus,1.2500,-0.0014,0.0364,-0.0735,0.0708
+safe,PCC/precuneus,2.5000,-0.0113,0.0429,-0.0964,0.0738
+safe,PCC/precuneus,3.7500,-0.0223,0.0472,-0.1159,0.0713
+safe,PCC/precuneus,5.0000,-0.0468,0.0486,-0.1431,0.0495
+safe,PCC/precuneus,6.2500,-0.0189,0.0424,-0.1030,0.0652
+safe,PCC/precuneus,7.5000,-0.0062,0.0439,-0.0932,0.0808
+safe,PCC/precuneus,8.7500,-0.0137,0.0413,-0.0956,0.0681
+safe,PCC/precuneus,10.0000,0.0258,0.0389,-0.0513,0.1029
+safe,PCC/precuneus,11.2500,0.0876,0.0389,0.0104,0.1647
+safe,PCC/precuneus,12.5000,0.1372,0.0433,0.0513,0.2230
+safe,PCC/precuneus,13.7500,0.1731,0.0391,0.0955,0.2507
+safe,PCC/precuneus,15.0000,0.1915,0.0370,0.1181,0.2649
+safe,PCC/precuneus,16.2500,0.2159,0.0350,0.1465,0.2853
+safe,PCC/precuneus,17.5000,0.1881,0.0365,0.1157,0.2605
+safe,PCC/precuneus,18.7500,0.1339,0.0357,0.0631,0.2046
+safe,PCC/precuneus,20.0000,0.0797,0.0285,0.0231,0.1363
+safe,Right AntDorsal Insula,0.0000,-0.0366,0.0106,-0.0577,-0.0156
+safe,Right AntDorsal Insula,1.2500,-0.0516,0.0123,-0.0759,-0.0273
+safe,Right AntDorsal Insula,2.5000,-0.0211,0.0129,-0.0467,0.0044
+safe,Right AntDorsal Insula,3.7500,0.0500,0.0135,0.0232,0.0768
+safe,Right AntDorsal Insula,5.0000,0.0646,0.0151,0.0347,0.0945
+safe,Right AntDorsal Insula,6.2500,0.0362,0.0144,0.0078,0.0647
+safe,Right AntDorsal Insula,7.5000,0.0015,0.0133,-0.0249,0.0280
+safe,Right AntDorsal Insula,8.7500,-0.0257,0.0138,-0.0530,0.0017
+safe,Right AntDorsal Insula,10.0000,-0.0362,0.0145,-0.0649,-0.0075
+safe,Right AntDorsal Insula,11.2500,-0.0384,0.0146,-0.0673,-0.0095
+safe,Right AntDorsal Insula,12.5000,-0.0502,0.0148,-0.0795,-0.0208
+safe,Right AntDorsal Insula,13.7500,-0.0567,0.0149,-0.0863,-0.0271
+safe,Right AntDorsal Insula,15.0000,-0.0483,0.0146,-0.0772,-0.0195
+safe,Right AntDorsal Insula,16.2500,-0.0539,0.0153,-0.0842,-0.0236
+safe,Right AntDorsal Insula,17.5000,-0.0544,0.0141,-0.0824,-0.0264
+safe,Right AntDorsal Insula,18.7500,-0.0441,0.0140,-0.0719,-0.0162
+safe,Right AntDorsal Insula,20.0000,0.0200,0.0104,-0.0006,0.0407
+safe,Right AntVentral Insula,0.0000,-0.0215,0.0161,-0.0534,0.0103
+safe,Right AntVentral Insula,1.2500,-0.0119,0.0191,-0.0497,0.0259
+safe,Right AntVentral Insula,2.5000,0.0066,0.0173,-0.0278,0.0409
+safe,Right AntVentral Insula,3.7500,0.0552,0.0185,0.0185,0.0919
+safe,Right AntVentral Insula,5.0000,0.0608,0.0245,0.0121,0.1094
+safe,Right AntVentral Insula,6.2500,0.0462,0.0220,0.0025,0.0898
+safe,Right AntVentral Insula,7.5000,0.0176,0.0201,-0.0224,0.0575
+safe,Right AntVentral Insula,8.7500,0.0053,0.0220,-0.0383,0.0489
+safe,Right AntVentral Insula,10.0000,-0.0051,0.0206,-0.0459,0.0357
+safe,Right AntVentral Insula,11.2500,-0.0168,0.0208,-0.0580,0.0244
+safe,Right AntVentral Insula,12.5000,-0.0020,0.0213,-0.0443,0.0403
+safe,Right AntVentral Insula,13.7500,-0.0019,0.0233,-0.0481,0.0442
+safe,Right AntVentral Insula,15.0000,0.0116,0.0265,-0.0409,0.0640
+safe,Right AntVentral Insula,16.2500,0.0009,0.0224,-0.0435,0.0454
+safe,Right AntVentral Insula,17.5000,-0.0160,0.0213,-0.0583,0.0263
+safe,Right AntVentral Insula,18.7500,0.0068,0.0224,-0.0377,0.0512
+safe,Right AntVentral Insula,20.0000,0.0409,0.0179,0.0053,0.0764
+safe,Right Anterior Caudate,0.0000,-0.0181,0.0093,-0.0365,0.0002
+safe,Right Anterior Caudate,1.2500,-0.0695,0.0137,-0.0967,-0.0424
+safe,Right Anterior Caudate,2.5000,-0.0856,0.0155,-0.1163,-0.0549
+safe,Right Anterior Caudate,3.7500,-0.0644,0.0171,-0.0983,-0.0306
+safe,Right Anterior Caudate,5.0000,-0.0687,0.0183,-0.1050,-0.0323
+safe,Right Anterior Caudate,6.2500,-0.0443,0.0189,-0.0817,-0.0068
+safe,Right Anterior Caudate,7.5000,-0.0419,0.0171,-0.0757,-0.0081
+safe,Right Anterior Caudate,8.7500,-0.0505,0.0184,-0.0870,-0.0141
+safe,Right Anterior Caudate,10.0000,-0.0581,0.0178,-0.0934,-0.0227
+safe,Right Anterior Caudate,11.2500,-0.0741,0.0187,-0.1112,-0.0371
+safe,Right Anterior Caudate,12.5000,-0.0793,0.0168,-0.1127,-0.0460
+safe,Right Anterior Caudate,13.7500,-0.0640,0.0169,-0.0976,-0.0305
+safe,Right Anterior Caudate,15.0000,-0.0607,0.0161,-0.0927,-0.0287
+safe,Right Anterior Caudate,16.2500,-0.0465,0.0172,-0.0806,-0.0123
+safe,Right Anterior Caudate,17.5000,-0.0528,0.0164,-0.0854,-0.0203
+safe,Right Anterior Caudate,18.7500,-0.0523,0.0148,-0.0816,-0.0230
+safe,Right Anterior Caudate,20.0000,-0.0045,0.0121,-0.0285,0.0196
+safe,Right Anterior MCC,0.0000,-0.0395,0.0108,-0.0608,-0.0181
+safe,Right Anterior MCC,1.2500,-0.0767,0.0159,-0.1082,-0.0453
+safe,Right Anterior MCC,2.5000,-0.0687,0.0186,-0.1057,-0.0318
+safe,Right Anterior MCC,3.7500,0.0182,0.0198,-0.0211,0.0575
+safe,Right Anterior MCC,5.0000,0.0584,0.0223,0.0143,0.1026
+safe,Right Anterior MCC,6.2500,0.0402,0.0210,-0.0014,0.0817
+safe,Right Anterior MCC,7.5000,0.0016,0.0193,-0.0368,0.0399
+safe,Right Anterior MCC,8.7500,-0.0096,0.0197,-0.0488,0.0295
+safe,Right Anterior MCC,10.0000,-0.0350,0.0202,-0.0750,0.0051
+safe,Right Anterior MCC,11.2500,-0.0427,0.0211,-0.0845,-0.0009
+safe,Right Anterior MCC,12.5000,-0.0389,0.0219,-0.0823,0.0046
+safe,Right Anterior MCC,13.7500,-0.0298,0.0219,-0.0732,0.0136
+safe,Right Anterior MCC,15.0000,-0.0354,0.0214,-0.0778,0.0070
+safe,Right Anterior MCC,16.2500,-0.0395,0.0207,-0.0805,0.0014
+safe,Right Anterior MCC,17.5000,-0.0666,0.0191,-0.1045,-0.0287
+safe,Right Anterior MCC,18.7500,-0.0775,0.0197,-0.1166,-0.0385
+safe,Right Anterior MCC,20.0000,0.0149,0.0134,-0.0117,0.0416
+safe,Right Anterior Putamen,0.0000,-0.0042,0.0101,-0.0242,0.0159
+safe,Right Anterior Putamen,1.2500,-0.0466,0.0145,-0.0754,-0.0179
+safe,Right Anterior Putamen,2.5000,-0.0454,0.0138,-0.0728,-0.0179
+safe,Right Anterior Putamen,3.7500,-0.0269,0.0153,-0.0572,0.0034
+safe,Right Anterior Putamen,5.0000,0.0142,0.0168,-0.0192,0.0476
+safe,Right Anterior Putamen,6.2500,0.0307,0.0171,-0.0032,0.0645
+safe,Right Anterior Putamen,7.5000,0.0176,0.0149,-0.0119,0.0471
+safe,Right Anterior Putamen,8.7500,-0.0048,0.0145,-0.0335,0.0240
+safe,Right Anterior Putamen,10.0000,-0.0167,0.0140,-0.0445,0.0111
+safe,Right Anterior Putamen,11.2500,-0.0448,0.0157,-0.0759,-0.0137
+safe,Right Anterior Putamen,12.5000,-0.0549,0.0149,-0.0845,-0.0254
+safe,Right Anterior Putamen,13.7500,-0.0484,0.0158,-0.0798,-0.0170
+safe,Right Anterior Putamen,15.0000,-0.0401,0.0142,-0.0682,-0.0119
+safe,Right Anterior Putamen,16.2500,-0.0448,0.0143,-0.0732,-0.0164
+safe,Right Anterior Putamen,17.5000,-0.0497,0.0147,-0.0788,-0.0207
+safe,Right Anterior Putamen,18.7500,-0.0542,0.0145,-0.0829,-0.0254
+safe,Right Anterior Putamen,20.0000,-0.0020,0.0118,-0.0253,0.0213
+safe,Right Anterior Thalamus,0.0000,-0.0092,0.0100,-0.0290,0.0107
+safe,Right Anterior Thalamus,1.2500,-0.0535,0.0141,-0.0814,-0.0256
+safe,Right Anterior Thalamus,2.5000,-0.0770,0.0163,-0.1093,-0.0446
+safe,Right Anterior Thalamus,3.7500,-0.0589,0.0166,-0.0919,-0.0260
+safe,Right Anterior Thalamus,5.0000,-0.0371,0.0189,-0.0744,0.0003
+safe,Right Anterior Thalamus,6.2500,-0.0327,0.0201,-0.0726,0.0071
+safe,Right Anterior Thalamus,7.5000,-0.0309,0.0196,-0.0697,0.0078
+safe,Right Anterior Thalamus,8.7500,-0.0428,0.0187,-0.0798,-0.0058
+safe,Right Anterior Thalamus,10.0000,-0.0627,0.0190,-0.1003,-0.0251
+safe,Right Anterior Thalamus,11.2500,-0.0941,0.0193,-0.1323,-0.0560
+safe,Right Anterior Thalamus,12.5000,-0.0960,0.0193,-0.1343,-0.0576
+safe,Right Anterior Thalamus,13.7500,-0.0997,0.0190,-0.1375,-0.0620
+safe,Right Anterior Thalamus,15.0000,-0.0841,0.0185,-0.1208,-0.0474
+safe,Right Anterior Thalamus,16.2500,-0.0723,0.0183,-0.1086,-0.0359
+safe,Right Anterior Thalamus,17.5000,-0.0761,0.0190,-0.1138,-0.0385
+safe,Right Anterior Thalamus,18.7500,-0.0852,0.0155,-0.1159,-0.0545
+safe,Right Anterior Thalamus,20.0000,-0.0279,0.0105,-0.0487,-0.0071
+safe,Right BLBM Amygdala,0.0000,-0.0026,0.0358,-0.0736,0.0684
+safe,Right BLBM Amygdala,1.2500,-0.0155,0.0393,-0.0934,0.0625
+safe,Right BLBM Amygdala,2.5000,0.0174,0.0291,-0.0403,0.0750
+safe,Right BLBM Amygdala,3.7500,0.0228,0.0315,-0.0397,0.0853
+safe,Right BLBM Amygdala,5.0000,-0.0072,0.0455,-0.0975,0.0830
+safe,Right BLBM Amygdala,6.2500,0.0504,0.0331,-0.0152,0.1160
+safe,Right BLBM Amygdala,7.5000,0.0440,0.0324,-0.0202,0.1083
+safe,Right BLBM Amygdala,8.7500,0.0325,0.0305,-0.0281,0.0930
+safe,Right BLBM Amygdala,10.0000,0.0846,0.0358,0.0136,0.1556
+safe,Right BLBM Amygdala,11.2500,0.0487,0.0295,-0.0097,0.1071
+safe,Right BLBM Amygdala,12.5000,0.0231,0.0302,-0.0367,0.0829
+safe,Right BLBM Amygdala,13.7500,0.0394,0.0321,-0.0241,0.1030
+safe,Right BLBM Amygdala,15.0000,0.1010,0.0381,0.0254,0.1766
+safe,Right BLBM Amygdala,16.2500,0.0488,0.0388,-0.0280,0.1257
+safe,Right BLBM Amygdala,17.5000,0.0057,0.0314,-0.0567,0.0680
+safe,Right BLBM Amygdala,18.7500,0.0315,0.0342,-0.0363,0.0993
+safe,Right BLBM Amygdala,20.0000,0.0795,0.0291,0.0218,0.1373
+safe,Right BST,0.0000,-0.0289,0.0487,-0.1254,0.0676
+safe,Right BST,1.2500,-0.0305,0.0432,-0.1162,0.0552
+safe,Right BST,2.5000,-0.0292,0.0401,-0.1088,0.0504
+safe,Right BST,3.7500,-0.0205,0.0476,-0.1148,0.0738
+safe,Right BST,5.0000,-0.0048,0.0489,-0.1017,0.0921
+safe,Right BST,6.2500,-0.0051,0.0477,-0.0996,0.0894
+safe,Right BST,7.5000,-0.0415,0.0460,-0.1326,0.0496
+safe,Right BST,8.7500,-0.0914,0.0446,-0.1799,-0.0029
+safe,Right BST,10.0000,-0.0986,0.0438,-0.1855,-0.0118
+safe,Right BST,11.2500,-0.0898,0.0428,-0.1748,-0.0049
+safe,Right BST,12.5000,-0.1072,0.0475,-0.2013,-0.0132
+safe,Right BST,13.7500,-0.0316,0.0410,-0.1129,0.0497
+safe,Right BST,15.0000,-0.0123,0.0428,-0.0972,0.0726
+safe,Right BST,16.2500,0.0044,0.0444,-0.0836,0.0923
+safe,Right BST,17.5000,0.0954,0.0486,-0.0010,0.1917
+safe,Right BST,18.7500,0.0042,0.0460,-0.0869,0.0954
+safe,Right BST,20.0000,0.0847,0.0465,-0.0075,0.1770
+safe,Right CeMe Amygdala,0.0000,-0.0180,0.0270,-0.0715,0.0355
+safe,Right CeMe Amygdala,1.2500,-0.0475,0.0312,-0.1093,0.0144
+safe,Right CeMe Amygdala,2.5000,-0.0692,0.0275,-0.1238,-0.0147
+safe,Right CeMe Amygdala,3.7500,-0.0151,0.0277,-0.0701,0.0398
+safe,Right CeMe Amygdala,5.0000,0.0076,0.0298,-0.0516,0.0667
+safe,Right CeMe Amygdala,6.2500,-0.0064,0.0283,-0.0626,0.0498
+safe,Right CeMe Amygdala,7.5000,-0.0047,0.0281,-0.0605,0.0511
+safe,Right CeMe Amygdala,8.7500,0.0016,0.0276,-0.0530,0.0563
+safe,Right CeMe Amygdala,10.0000,0.0017,0.0276,-0.0530,0.0565
+safe,Right CeMe Amygdala,11.2500,-0.0068,0.0269,-0.0600,0.0464
+safe,Right CeMe Amygdala,12.5000,-0.0189,0.0281,-0.0746,0.0367
+safe,Right CeMe Amygdala,13.7500,0.0243,0.0307,-0.0366,0.0851
+safe,Right CeMe Amygdala,15.0000,0.0349,0.0291,-0.0228,0.0926
+safe,Right CeMe Amygdala,16.2500,0.0272,0.0265,-0.0254,0.0798
+safe,Right CeMe Amygdala,17.5000,0.0521,0.0279,-0.0032,0.1073
+safe,Right CeMe Amygdala,18.7500,0.0075,0.0278,-0.0477,0.0626
+safe,Right CeMe Amygdala,20.0000,-0.0009,0.0220,-0.0444,0.0427
+safe,Right Hypothalamus,0.0000,0.0967,0.0376,0.0221,0.1712
+safe,Right Hypothalamus,1.2500,-0.0041,0.0407,-0.0849,0.0767
+safe,Right Hypothalamus,2.5000,-0.0448,0.0443,-0.1326,0.0431
+safe,Right Hypothalamus,3.7500,-0.0341,0.0380,-0.1095,0.0413
+safe,Right Hypothalamus,5.0000,-0.0005,0.0404,-0.0807,0.0796
+safe,Right Hypothalamus,6.2500,-0.0345,0.0457,-0.1251,0.0560
+safe,Right Hypothalamus,7.5000,-0.0024,0.0408,-0.0833,0.0786
+safe,Right Hypothalamus,8.7500,0.0413,0.0436,-0.0452,0.1277
+safe,Right Hypothalamus,10.0000,0.0178,0.0444,-0.0702,0.1059
+safe,Right Hypothalamus,11.2500,0.0034,0.0473,-0.0903,0.0972
+safe,Right Hypothalamus,12.5000,0.0336,0.0490,-0.0635,0.1308
+safe,Right Hypothalamus,13.7500,0.0149,0.0455,-0.0754,0.1051
+safe,Right Hypothalamus,15.0000,0.0513,0.0376,-0.0232,0.1258
+safe,Right Hypothalamus,16.2500,0.0530,0.0410,-0.0284,0.1343
+safe,Right Hypothalamus,17.5000,0.0551,0.0463,-0.0366,0.1469
+safe,Right Hypothalamus,18.7500,0.0890,0.0492,-0.0085,0.1865
+safe,Right Hypothalamus,20.0000,0.0650,0.0392,-0.0128,0.1427
+safe,Right MidPost Insula,0.0000,-0.0141,0.0086,-0.0313,0.0030
+safe,Right MidPost Insula,1.2500,-0.0329,0.0135,-0.0596,-0.0062
+safe,Right MidPost Insula,2.5000,-0.0362,0.0160,-0.0680,-0.0044
+safe,Right MidPost Insula,3.7500,0.0030,0.0161,-0.0288,0.0349
+safe,Right MidPost Insula,5.0000,0.0318,0.0171,-0.0021,0.0657
+safe,Right MidPost Insula,6.2500,0.0288,0.0171,-0.0051,0.0627
+safe,Right MidPost Insula,7.5000,0.0334,0.0156,0.0025,0.0643
+safe,Right MidPost Insula,8.7500,0.0238,0.0153,-0.0065,0.0541
+safe,Right MidPost Insula,10.0000,0.0243,0.0145,-0.0045,0.0530
+safe,Right MidPost Insula,11.2500,0.0219,0.0136,-0.0050,0.0487
+safe,Right MidPost Insula,12.5000,0.0238,0.0145,-0.0049,0.0525
+safe,Right MidPost Insula,13.7500,0.0168,0.0144,-0.0117,0.0452
+safe,Right MidPost Insula,15.0000,0.0153,0.0150,-0.0144,0.0451
+safe,Right MidPost Insula,16.2500,0.0110,0.0142,-0.0172,0.0392
+safe,Right MidPost Insula,17.5000,-0.0064,0.0129,-0.0321,0.0192
+safe,Right MidPost Insula,18.7500,-0.0134,0.0112,-0.0356,0.0089
+safe,Right MidPost Insula,20.0000,0.0084,0.0079,-0.0073,0.0241
+safe,Right PAG,0.0000,-0.0042,0.0397,-0.0829,0.0744
+safe,Right PAG,1.2500,-0.0517,0.0370,-0.1249,0.0216
+safe,Right PAG,2.5000,0.0435,0.0400,-0.0357,0.1228
+safe,Right PAG,3.7500,0.0273,0.0359,-0.0438,0.0984
+safe,Right PAG,5.0000,0.0061,0.0347,-0.0627,0.0748
+safe,Right PAG,6.2500,-0.0472,0.0361,-0.1187,0.0243
+safe,Right PAG,7.5000,-0.0063,0.0369,-0.0794,0.0667
+safe,Right PAG,8.7500,-0.0759,0.0391,-0.1533,0.0016
+safe,Right PAG,10.0000,-0.0548,0.0373,-0.1289,0.0192
+safe,Right PAG,11.2500,-0.0733,0.0374,-0.1475,0.0009
+safe,Right PAG,12.5000,-0.0441,0.0351,-0.1136,0.0254
+safe,Right PAG,13.7500,-0.0213,0.0393,-0.0993,0.0566
+safe,Right PAG,15.0000,0.0026,0.0348,-0.0663,0.0715
+safe,Right PAG,16.2500,-0.0619,0.0312,-0.1238,0.0000
+safe,Right PAG,17.5000,-0.0020,0.0367,-0.0747,0.0707
+safe,Right PAG,18.7500,-0.0512,0.0321,-0.1148,0.0124
+safe,Right PAG,20.0000,0.1024,0.0322,0.0386,0.1662
+safe,Right Posterior Caudate,0.0000,-0.0144,0.0157,-0.0455,0.0167
+safe,Right Posterior Caudate,1.2500,-0.0875,0.0183,-0.1238,-0.0512
+safe,Right Posterior Caudate,2.5000,-0.1486,0.0220,-0.1922,-0.1050
+safe,Right Posterior Caudate,3.7500,-0.2058,0.0229,-0.2512,-0.1605
+safe,Right Posterior Caudate,5.0000,-0.2379,0.0257,-0.2888,-0.1869
+safe,Right Posterior Caudate,6.2500,-0.1956,0.0280,-0.2511,-0.1401
+safe,Right Posterior Caudate,7.5000,-0.1394,0.0288,-0.1965,-0.0822
+safe,Right Posterior Caudate,8.7500,-0.0760,0.0273,-0.1301,-0.0219
+safe,Right Posterior Caudate,10.0000,-0.0768,0.0252,-0.1266,-0.0269
+safe,Right Posterior Caudate,11.2500,-0.0956,0.0245,-0.1442,-0.0471
+safe,Right Posterior Caudate,12.5000,-0.0967,0.0230,-0.1423,-0.0511
+safe,Right Posterior Caudate,13.7500,-0.1093,0.0231,-0.1551,-0.0636
+safe,Right Posterior Caudate,15.0000,-0.0900,0.0254,-0.1403,-0.0397
+safe,Right Posterior Caudate,16.2500,-0.0875,0.0231,-0.1333,-0.0416
+safe,Right Posterior Caudate,17.5000,-0.1045,0.0242,-0.1525,-0.0565
+safe,Right Posterior Caudate,18.7500,-0.1121,0.0221,-0.1560,-0.0682
+safe,Right Posterior Caudate,20.0000,-0.0670,0.0182,-0.1032,-0.0309
+safe,Right Posterior Putamen,0.0000,-0.0254,0.0118,-0.0488,-0.0019
+safe,Right Posterior Putamen,1.2500,-0.0517,0.0155,-0.0824,-0.0209
+safe,Right Posterior Putamen,2.5000,-0.0651,0.0153,-0.0954,-0.0348
+safe,Right Posterior Putamen,3.7500,-0.0299,0.0159,-0.0614,0.0016
+safe,Right Posterior Putamen,5.0000,0.0193,0.0194,-0.0191,0.0578
+safe,Right Posterior Putamen,6.2500,0.0519,0.0200,0.0123,0.0916
+safe,Right Posterior Putamen,7.5000,0.0400,0.0179,0.0045,0.0755
+safe,Right Posterior Putamen,8.7500,0.0253,0.0186,-0.0116,0.0622
+safe,Right Posterior Putamen,10.0000,-0.0030,0.0186,-0.0398,0.0338
+safe,Right Posterior Putamen,11.2500,-0.0169,0.0192,-0.0550,0.0212
+safe,Right Posterior Putamen,12.5000,-0.0322,0.0181,-0.0680,0.0036
+safe,Right Posterior Putamen,13.7500,-0.0260,0.0183,-0.0623,0.0103
+safe,Right Posterior Putamen,15.0000,-0.0355,0.0168,-0.0688,-0.0022
+safe,Right Posterior Putamen,16.2500,-0.0383,0.0170,-0.0720,-0.0047
+safe,Right Posterior Putamen,17.5000,-0.0273,0.0168,-0.0605,0.0060
+safe,Right Posterior Putamen,18.7500,-0.0371,0.0157,-0.0682,-0.0061
+safe,Right Posterior Putamen,20.0000,-0.0061,0.0123,-0.0304,0.0182
+safe,Right Posterior Thalamus,0.0000,-0.0129,0.0114,-0.0354,0.0096
+safe,Right Posterior Thalamus,1.2500,-0.0270,0.0118,-0.0503,-0.0036
+safe,Right Posterior Thalamus,2.5000,-0.0073,0.0146,-0.0362,0.0216
+safe,Right Posterior Thalamus,3.7500,0.0214,0.0150,-0.0084,0.0511
+safe,Right Posterior Thalamus,5.0000,0.0439,0.0157,0.0128,0.0751
+safe,Right Posterior Thalamus,6.2500,0.0447,0.0170,0.0110,0.0783
+safe,Right Posterior Thalamus,7.5000,0.0326,0.0167,-0.0006,0.0658
+safe,Right Posterior Thalamus,8.7500,0.0338,0.0155,0.0031,0.0645
+safe,Right Posterior Thalamus,10.0000,-0.0048,0.0156,-0.0359,0.0262
+safe,Right Posterior Thalamus,11.2500,-0.0157,0.0158,-0.0470,0.0156
+safe,Right Posterior Thalamus,12.5000,-0.0177,0.0153,-0.0480,0.0126
+safe,Right Posterior Thalamus,13.7500,-0.0115,0.0141,-0.0395,0.0165
+safe,Right Posterior Thalamus,15.0000,-0.0055,0.0144,-0.0340,0.0231
+safe,Right Posterior Thalamus,16.2500,0.0084,0.0151,-0.0216,0.0383
+safe,Right Posterior Thalamus,17.5000,-0.0125,0.0145,-0.0413,0.0163
+safe,Right Posterior Thalamus,18.7500,-0.0221,0.0144,-0.0507,0.0064
+safe,Right Posterior Thalamus,20.0000,0.0269,0.0119,0.0033,0.0504
+safe,Right Ventral Striatum,0.0000,-0.0174,0.0156,-0.0483,0.0135
+safe,Right Ventral Striatum,1.2500,-0.0479,0.0175,-0.0827,-0.0132
+safe,Right Ventral Striatum,2.5000,-0.0975,0.0201,-0.1373,-0.0576
+safe,Right Ventral Striatum,3.7500,-0.0729,0.0205,-0.1135,-0.0322
+safe,Right Ventral Striatum,5.0000,-0.1120,0.0193,-0.1502,-0.0738
+safe,Right Ventral Striatum,6.2500,-0.0917,0.0205,-0.1323,-0.0511
+safe,Right Ventral Striatum,7.5000,-0.1061,0.0218,-0.1493,-0.0630
+safe,Right Ventral Striatum,8.7500,-0.0698,0.0184,-0.1063,-0.0333
+safe,Right Ventral Striatum,10.0000,-0.0840,0.0181,-0.1200,-0.0480
+safe,Right Ventral Striatum,11.2500,-0.0682,0.0189,-0.1056,-0.0307
+safe,Right Ventral Striatum,12.5000,-0.0561,0.0193,-0.0943,-0.0178
+safe,Right Ventral Striatum,13.7500,-0.0442,0.0206,-0.0849,-0.0035
+safe,Right Ventral Striatum,15.0000,-0.0260,0.0191,-0.0640,0.0119
+safe,Right Ventral Striatum,16.2500,-0.0053,0.0228,-0.0505,0.0399
+safe,Right Ventral Striatum,17.5000,-0.0161,0.0171,-0.0499,0.0178
+safe,Right Ventral Striatum,18.7500,-0.0246,0.0206,-0.0655,0.0162
+safe,Right Ventral Striatum,20.0000,0.0298,0.0171,-0.0040,0.0636
+safe,vmPFC,0.0000,-0.0081,0.0184,-0.0447,0.0284
+safe,vmPFC,1.2500,-0.0054,0.0235,-0.0520,0.0412
+safe,vmPFC,2.5000,-0.0015,0.0280,-0.0569,0.0540
+safe,vmPFC,3.7500,0.0119,0.0293,-0.0461,0.0699
+safe,vmPFC,5.0000,-0.0253,0.0306,-0.0860,0.0354
+safe,vmPFC,6.2500,-0.0136,0.0285,-0.0701,0.0430
+safe,vmPFC,7.5000,0.0131,0.0281,-0.0426,0.0687
+safe,vmPFC,8.7500,0.0190,0.0301,-0.0407,0.0787
+safe,vmPFC,10.0000,0.0334,0.0286,-0.0233,0.0902
+safe,vmPFC,11.2500,0.0529,0.0273,-0.0013,0.1070
+safe,vmPFC,12.5000,0.0693,0.0258,0.0181,0.1205
+safe,vmPFC,13.7500,0.0829,0.0278,0.0279,0.1380
+safe,vmPFC,15.0000,0.0987,0.0283,0.0427,0.1548
+safe,vmPFC,16.2500,0.0983,0.0259,0.0469,0.1497
+safe,vmPFC,17.5000,0.1053,0.0286,0.0485,0.1621
+safe,vmPFC,18.7500,0.0906,0.0248,0.0415,0.1398
+safe,vmPFC,20.0000,0.0702,0.0202,0.0302,0.1103
+threat,ACC,0.0000,-0.0194,0.0090,-0.0373,-0.0015
+threat,ACC,1.2500,-0.0173,0.0131,-0.0432,0.0087
+threat,ACC,2.5000,-0.0460,0.0155,-0.0767,-0.0153
+threat,ACC,3.7500,-0.0014,0.0193,-0.0396,0.0368
+threat,ACC,5.0000,0.0168,0.0207,-0.0242,0.0578
+threat,ACC,6.2500,-0.0098,0.0214,-0.0521,0.0326
+threat,ACC,7.5000,-0.0427,0.0206,-0.0835,-0.0019
+threat,ACC,8.7500,-0.0556,0.0204,-0.0961,-0.0151
+threat,ACC,10.0000,-0.0734,0.0192,-0.1114,-0.0354
+threat,ACC,11.2500,-0.0694,0.0193,-0.1077,-0.0312
+threat,ACC,12.5000,-0.0569,0.0190,-0.0946,-0.0191
+threat,ACC,13.7500,-0.0603,0.0192,-0.0983,-0.0223
+threat,ACC,15.0000,-0.0495,0.0187,-0.0866,-0.0124
+threat,ACC,16.2500,-0.0461,0.0182,-0.0821,-0.0101
+threat,ACC,17.5000,-0.0450,0.0165,-0.0777,-0.0124
+threat,ACC,18.7500,-0.0472,0.0169,-0.0806,-0.0137
+threat,ACC,20.0000,0.0063,0.0125,-0.0184,0.0311
+threat,Left AntDorsal Insula,0.0000,-0.0173,0.0091,-0.0354,0.0008
+threat,Left AntDorsal Insula,1.2500,-0.0525,0.0109,-0.0742,-0.0309
+threat,Left AntDorsal Insula,2.5000,-0.0158,0.0122,-0.0399,0.0083
+threat,Left AntDorsal Insula,3.7500,0.0781,0.0153,0.0478,0.1084
+threat,Left AntDorsal Insula,5.0000,0.1302,0.0156,0.0993,0.1612
+threat,Left AntDorsal Insula,6.2500,0.1109,0.0159,0.0794,0.1423
+threat,Left AntDorsal Insula,7.5000,0.0729,0.0153,0.0426,0.1032
+threat,Left AntDorsal Insula,8.7500,0.0373,0.0159,0.0057,0.0688
+threat,Left AntDorsal Insula,10.0000,0.0316,0.0152,0.0015,0.0618
+threat,Left AntDorsal Insula,11.2500,0.0241,0.0155,-0.0066,0.0549
+threat,Left AntDorsal Insula,12.5000,0.0231,0.0139,-0.0045,0.0507
+threat,Left AntDorsal Insula,13.7500,0.0201,0.0152,-0.0101,0.0503
+threat,Left AntDorsal Insula,15.0000,0.0172,0.0144,-0.0113,0.0458
+threat,Left AntDorsal Insula,16.2500,0.0274,0.0156,-0.0034,0.0582
+threat,Left AntDorsal Insula,17.5000,0.0100,0.0148,-0.0193,0.0393
+threat,Left AntDorsal Insula,18.7500,0.0353,0.0153,0.0050,0.0655
+threat,Left AntDorsal Insula,20.0000,0.1197,0.0118,0.0964,0.1430
+threat,Left AntVentral Insula,0.0000,-0.0220,0.0154,-0.0525,0.0085
+threat,Left AntVentral Insula,1.2500,-0.0293,0.0176,-0.0641,0.0056
+threat,Left AntVentral Insula,2.5000,-0.0392,0.0204,-0.0797,0.0013
+threat,Left AntVentral Insula,3.7500,0.0395,0.0217,-0.0035,0.0824
+threat,Left AntVentral Insula,5.0000,0.0939,0.0211,0.0521,0.1357
+threat,Left AntVentral Insula,6.2500,0.0512,0.0225,0.0066,0.0957
+threat,Left AntVentral Insula,7.5000,0.0142,0.0193,-0.0242,0.0525
+threat,Left AntVentral Insula,8.7500,0.0006,0.0211,-0.0413,0.0424
+threat,Left AntVentral Insula,10.0000,-0.0071,0.0219,-0.0506,0.0364
+threat,Left AntVentral Insula,11.2500,0.0004,0.0214,-0.0420,0.0428
+threat,Left AntVentral Insula,12.5000,0.0064,0.0218,-0.0368,0.0496
+threat,Left AntVentral Insula,13.7500,0.0241,0.0199,-0.0154,0.0636
+threat,Left AntVentral Insula,15.0000,0.0138,0.0203,-0.0264,0.0540
+threat,Left AntVentral Insula,16.2500,0.0265,0.0204,-0.0139,0.0669
+threat,Left AntVentral Insula,17.5000,0.0211,0.0196,-0.0177,0.0598
+threat,Left AntVentral Insula,18.7500,0.0532,0.0210,0.0115,0.0950
+threat,Left AntVentral Insula,20.0000,0.1416,0.0160,0.1099,0.1734
+threat,Left Anterior  Putamen,0.0000,-0.0316,0.0112,-0.0539,-0.0094
+threat,Left Anterior  Putamen,1.2500,-0.0790,0.0144,-0.1076,-0.0504
+threat,Left Anterior  Putamen,2.5000,-0.1046,0.0172,-0.1388,-0.0705
+threat,Left Anterior  Putamen,3.7500,-0.0485,0.0215,-0.0911,-0.0059
+threat,Left Anterior  Putamen,5.0000,0.0292,0.0233,-0.0170,0.0753
+threat,Left Anterior  Putamen,6.2500,0.0396,0.0234,-0.0068,0.0860
+threat,Left Anterior  Putamen,7.5000,0.0138,0.0218,-0.0294,0.0570
+threat,Left Anterior  Putamen,8.7500,0.0008,0.0195,-0.0379,0.0396
+threat,Left Anterior  Putamen,10.0000,-0.0127,0.0195,-0.0514,0.0261
+threat,Left Anterior  Putamen,11.2500,-0.0024,0.0191,-0.0403,0.0355
+threat,Left Anterior  Putamen,12.5000,-0.0025,0.0196,-0.0414,0.0364
+threat,Left Anterior  Putamen,13.7500,-0.0108,0.0196,-0.0497,0.0280
+threat,Left Anterior  Putamen,15.0000,-0.0035,0.0195,-0.0423,0.0352
+threat,Left Anterior  Putamen,16.2500,0.0063,0.0188,-0.0310,0.0436
+threat,Left Anterior  Putamen,17.5000,-0.0032,0.0182,-0.0393,0.0329
+threat,Left Anterior  Putamen,18.7500,-0.0066,0.0184,-0.0431,0.0299
+threat,Left Anterior  Putamen,20.0000,0.1025,0.0163,0.0703,0.1348
+threat,Left Anterior Caudate,0.0000,-0.0339,0.0110,-0.0556,-0.0122
+threat,Left Anterior Caudate,1.2500,-0.0834,0.0135,-0.1102,-0.0566
+threat,Left Anterior Caudate,2.5000,-0.0856,0.0169,-0.1191,-0.0521
+threat,Left Anterior Caudate,3.7500,0.0028,0.0212,-0.0393,0.0449
+threat,Left Anterior Caudate,5.0000,0.0377,0.0238,-0.0094,0.0848
+threat,Left Anterior Caudate,6.2500,0.0294,0.0239,-0.0181,0.0769
+threat,Left Anterior Caudate,7.5000,0.0078,0.0233,-0.0385,0.0540
+threat,Left Anterior Caudate,8.7500,-0.0042,0.0222,-0.0482,0.0399
+threat,Left Anterior Caudate,10.0000,-0.0149,0.0226,-0.0598,0.0300
+threat,Left Anterior Caudate,11.2500,-0.0180,0.0225,-0.0626,0.0265
+threat,Left Anterior Caudate,12.5000,-0.0220,0.0199,-0.0614,0.0174
+threat,Left Anterior Caudate,13.7500,-0.0170,0.0210,-0.0586,0.0246
+threat,Left Anterior Caudate,15.0000,-0.0182,0.0209,-0.0597,0.0233
+threat,Left Anterior Caudate,16.2500,0.0130,0.0201,-0.0268,0.0528
+threat,Left Anterior Caudate,17.5000,0.0084,0.0204,-0.0319,0.0488
+threat,Left Anterior Caudate,18.7500,0.0149,0.0190,-0.0228,0.0527
+threat,Left Anterior Caudate,20.0000,0.0684,0.0156,0.0374,0.0994
+threat,Left Anterior MCC,0.0000,-0.0208,0.0119,-0.0444,0.0028
+threat,Left Anterior MCC,1.2500,-0.0668,0.0158,-0.0981,-0.0356
+threat,Left Anterior MCC,2.5000,-0.0604,0.0193,-0.0985,-0.0222
+threat,Left Anterior MCC,3.7500,0.0899,0.0234,0.0434,0.1363
+threat,Left Anterior MCC,5.0000,0.1958,0.0277,0.1409,0.2506
+threat,Left Anterior MCC,6.2500,0.1675,0.0292,0.1097,0.2253
+threat,Left Anterior MCC,7.5000,0.0880,0.0289,0.0307,0.1452
+threat,Left Anterior MCC,8.7500,0.0253,0.0257,-0.0257,0.0763
+threat,Left Anterior MCC,10.0000,-0.0199,0.0233,-0.0660,0.0262
+threat,Left Anterior MCC,11.2500,-0.0447,0.0240,-0.0922,0.0028
+threat,Left Anterior MCC,12.5000,-0.0523,0.0234,-0.0987,-0.0059
+threat,Left Anterior MCC,13.7500,-0.0604,0.0215,-0.1030,-0.0177
+threat,Left Anterior MCC,15.0000,-0.0510,0.0205,-0.0917,-0.0103
+threat,Left Anterior MCC,16.2500,-0.0413,0.0210,-0.0829,0.0003
+threat,Left Anterior MCC,17.5000,-0.0603,0.0214,-0.1027,-0.0180
+threat,Left Anterior MCC,18.7500,-0.0667,0.0202,-0.1067,-0.0268
+threat,Left Anterior MCC,20.0000,0.0562,0.0156,0.0253,0.0872
+threat,Left Anterior Thalamus,0.0000,0.0369,0.0788,-0.1194,0.1931
+threat,Left Anterior Thalamus,1.2500,-0.0055,0.0884,-0.1807,0.1697
+threat,Left Anterior Thalamus,2.5000,-0.0915,0.0514,-0.1933,0.0104
+threat,Left Anterior Thalamus,3.7500,0.0360,0.1226,-0.2070,0.2791
+threat,Left Anterior Thalamus,5.0000,-0.0465,0.0265,-0.0990,0.0061
+threat,Left Anterior Thalamus,6.2500,-0.0741,0.0636,-0.2001,0.0520
+threat,Left Anterior Thalamus,7.5000,-0.1175,0.0837,-0.2833,0.0484
+threat,Left Anterior Thalamus,8.7500,0.0352,0.0857,-0.1347,0.2051
+threat,Left Anterior Thalamus,10.0000,-0.0135,0.0708,-0.1538,0.1267
+threat,Left Anterior Thalamus,11.2500,-0.0450,0.0630,-0.1699,0.0798
+threat,Left Anterior Thalamus,12.5000,0.0024,0.1113,-0.2183,0.2230
+threat,Left Anterior Thalamus,13.7500,-0.0552,0.0531,-0.1604,0.0500
+threat,Left Anterior Thalamus,15.0000,-0.0539,0.0461,-0.1453,0.0374
+threat,Left Anterior Thalamus,16.2500,-0.0789,0.0187,-0.1160,-0.0419
+threat,Left Anterior Thalamus,17.5000,-0.0263,0.0445,-0.1144,0.0619
+threat,Left Anterior Thalamus,18.7500,0.0849,0.1213,-0.1555,0.3253
+threat,Left Anterior Thalamus,20.0000,0.1597,0.1431,-0.1239,0.4433
+threat,Left BLBM Amygdala,0.0000,-0.0636,0.0337,-0.1304,0.0032
+threat,Left BLBM Amygdala,1.2500,-0.0418,0.0550,-0.1508,0.0672
+threat,Left BLBM Amygdala,2.5000,-0.0130,0.0520,-0.1162,0.0902
+threat,Left BLBM Amygdala,3.7500,-0.0148,0.0483,-0.1106,0.0810
+threat,Left BLBM Amygdala,5.0000,-0.1417,0.1288,-0.3971,0.1136
+threat,Left BLBM Amygdala,6.2500,-0.1045,0.0621,-0.2276,0.0186
+threat,Left BLBM Amygdala,7.5000,-0.0914,0.0552,-0.2007,0.0179
+threat,Left BLBM Amygdala,8.7500,-0.0684,0.0389,-0.1456,0.0088
+threat,Left BLBM Amygdala,10.0000,-0.0676,0.0743,-0.2148,0.0795
+threat,Left BLBM Amygdala,11.2500,-0.1451,0.0868,-0.3172,0.0270
+threat,Left BLBM Amygdala,12.5000,-0.0787,0.0517,-0.1812,0.0238
+threat,Left BLBM Amygdala,13.7500,-0.0383,0.0637,-0.1646,0.0881
+threat,Left BLBM Amygdala,15.0000,0.0152,0.0338,-0.0517,0.0822
+threat,Left BLBM Amygdala,16.2500,-0.0175,0.0409,-0.0986,0.0636
+threat,Left BLBM Amygdala,17.5000,0.0260,0.0351,-0.0435,0.0955
+threat,Left BLBM Amygdala,18.7500,-0.0101,0.0537,-0.1166,0.0964
+threat,Left BLBM Amygdala,20.0000,0.0058,0.0359,-0.0653,0.0770
+threat,Left BST,0.0000,-0.0901,0.0413,-0.1720,-0.0082
+threat,Left BST,1.2500,-0.0653,0.0390,-0.1426,0.0119
+threat,Left BST,2.5000,-0.0693,0.0438,-0.1561,0.0176
+threat,Left BST,3.7500,0.0817,0.0472,-0.0118,0.1752
+threat,Left BST,5.0000,0.1533,0.0477,0.0588,0.2478
+threat,Left BST,6.2500,0.1224,0.0500,0.0233,0.2215
+threat,Left BST,7.5000,0.0587,0.0480,-0.0364,0.1538
+threat,Left BST,8.7500,0.0269,0.0494,-0.0711,0.1248
+threat,Left BST,10.0000,-0.0633,0.0505,-0.1634,0.0368
+threat,Left BST,11.2500,-0.0730,0.0488,-0.1698,0.0238
+threat,Left BST,12.5000,-0.1285,0.0419,-0.2115,-0.0455
+threat,Left BST,13.7500,-0.0347,0.0440,-0.1218,0.0524
+threat,Left BST,15.0000,-0.0213,0.0503,-0.1211,0.0784
+threat,Left BST,16.2500,-0.0416,0.0468,-0.1344,0.0511
+threat,Left BST,17.5000,0.0151,0.0540,-0.0919,0.1221
+threat,Left BST,18.7500,0.0651,0.0435,-0.0211,0.1513
+threat,Left BST,20.0000,0.1665,0.0416,0.0839,0.2490
+threat,Left CeMe Amygdala,0.0000,-0.0330,0.0293,-0.0911,0.0251
+threat,Left CeMe Amygdala,1.2500,-0.0103,0.0317,-0.0732,0.0525
+threat,Left CeMe Amygdala,2.5000,-0.0470,0.0325,-0.1114,0.0174
+threat,Left CeMe Amygdala,3.7500,-0.0173,0.0356,-0.0880,0.0533
+threat,Left CeMe Amygdala,5.0000,-0.0716,0.0368,-0.1445,0.0013
+threat,Left CeMe Amygdala,6.2500,-0.1223,0.0367,-0.1951,-0.0495
+threat,Left CeMe Amygdala,7.5000,-0.1138,0.0351,-0.1835,-0.0441
+threat,Left CeMe Amygdala,8.7500,-0.1512,0.0364,-0.2234,-0.0790
+threat,Left CeMe Amygdala,10.0000,-0.1027,0.0376,-0.1772,-0.0281
+threat,Left CeMe Amygdala,11.2500,-0.1109,0.0356,-0.1814,-0.0404
+threat,Left CeMe Amygdala,12.5000,-0.0762,0.0375,-0.1504,-0.0019
+threat,Left CeMe Amygdala,13.7500,-0.0574,0.0396,-0.1359,0.0212
+threat,Left CeMe Amygdala,15.0000,-0.0808,0.0371,-0.1545,-0.0072
+threat,Left CeMe Amygdala,16.2500,-0.0425,0.0354,-0.1127,0.0277
+threat,Left CeMe Amygdala,17.5000,0.0080,0.0334,-0.0583,0.0742
+threat,Left CeMe Amygdala,18.7500,-0.0339,0.0355,-0.1043,0.0366
+threat,Left CeMe Amygdala,20.0000,0.0052,0.0326,-0.0593,0.0697
+threat,Left Hypothalamus,0.0000,-0.0111,0.0414,-0.0932,0.0710
+threat,Left Hypothalamus,1.2500,0.0115,0.0413,-0.0704,0.0934
+threat,Left Hypothalamus,2.5000,-0.0557,0.0408,-0.1366,0.0253
+threat,Left Hypothalamus,3.7500,0.0664,0.0438,-0.0203,0.1532
+threat,Left Hypothalamus,5.0000,0.1106,0.0440,0.0234,0.1979
+threat,Left Hypothalamus,6.2500,0.0797,0.0465,-0.0126,0.1719
+threat,Left Hypothalamus,7.5000,0.1011,0.0574,-0.0126,0.2148
+threat,Left Hypothalamus,8.7500,0.1080,0.0546,-0.0001,0.2162
+threat,Left Hypothalamus,10.0000,-0.0154,0.0468,-0.1082,0.0773
+threat,Left Hypothalamus,11.2500,0.0161,0.0434,-0.0700,0.1022
+threat,Left Hypothalamus,12.5000,0.0333,0.0559,-0.0775,0.1441
+threat,Left Hypothalamus,13.7500,0.0106,0.0462,-0.0809,0.1021
+threat,Left Hypothalamus,15.0000,0.0011,0.0418,-0.0818,0.0840
+threat,Left Hypothalamus,16.2500,0.0344,0.0382,-0.0413,0.1102
+threat,Left Hypothalamus,17.5000,-0.0078,0.0453,-0.0975,0.0820
+threat,Left Hypothalamus,18.7500,0.0162,0.0424,-0.0679,0.1002
+threat,Left Hypothalamus,20.0000,-0.0161,0.0406,-0.0965,0.0644
+threat,Left MidPost Insula,0.0000,-0.0119,0.0085,-0.0288,0.0049
+threat,Left MidPost Insula,1.2500,-0.0318,0.0110,-0.0537,-0.0100
+threat,Left MidPost Insula,2.5000,-0.0392,0.0134,-0.0658,-0.0127
+threat,Left MidPost Insula,3.7500,-0.0099,0.0159,-0.0414,0.0216
+threat,Left MidPost Insula,5.0000,0.0155,0.0161,-0.0165,0.0474
+threat,Left MidPost Insula,6.2500,-0.0131,0.0165,-0.0459,0.0197
+threat,Left MidPost Insula,7.5000,-0.0388,0.0175,-0.0736,-0.0040
+threat,Left MidPost Insula,8.7500,-0.0536,0.0172,-0.0877,-0.0195
+threat,Left MidPost Insula,10.0000,-0.0650,0.0165,-0.0978,-0.0323
+threat,Left MidPost Insula,11.2500,-0.0662,0.0164,-0.0987,-0.0337
+threat,Left MidPost Insula,12.5000,-0.0618,0.0148,-0.0911,-0.0325
+threat,Left MidPost Insula,13.7500,-0.0540,0.0134,-0.0807,-0.0274
+threat,Left MidPost Insula,15.0000,-0.0492,0.0133,-0.0755,-0.0229
+threat,Left MidPost Insula,16.2500,-0.0332,0.0130,-0.0590,-0.0074
+threat,Left MidPost Insula,17.5000,-0.0304,0.0118,-0.0538,-0.0071
+threat,Left MidPost Insula,18.7500,-0.0175,0.0124,-0.0422,0.0072
+threat,Left MidPost Insula,20.0000,0.0317,0.0101,0.0117,0.0516
+threat,Left PAG,0.0000,-0.0666,0.0285,-0.1230,-0.0102
+threat,Left PAG,1.2500,-0.0204,0.0311,-0.0820,0.0413
+threat,Left PAG,2.5000,0.0032,0.0302,-0.0567,0.0632
+threat,Left PAG,3.7500,0.0191,0.0329,-0.0460,0.0842
+threat,Left PAG,5.0000,0.0291,0.0357,-0.0417,0.0999
+threat,Left PAG,6.2500,0.0377,0.0341,-0.0299,0.1053
+threat,Left PAG,7.5000,-0.0361,0.0304,-0.0963,0.0241
+threat,Left PAG,8.7500,-0.0110,0.0331,-0.0765,0.0546
+threat,Left PAG,10.0000,-0.0603,0.0367,-0.1331,0.0124
+threat,Left PAG,11.2500,-0.0461,0.0349,-0.1153,0.0231
+threat,Left PAG,12.5000,-0.0142,0.0318,-0.0773,0.0489
+threat,Left PAG,13.7500,0.0067,0.0334,-0.0595,0.0728
+threat,Left PAG,15.0000,-0.0261,0.0312,-0.0880,0.0358
+threat,Left PAG,16.2500,-0.0683,0.0327,-0.1332,-0.0034
+threat,Left PAG,17.5000,-0.0504,0.0361,-0.1220,0.0212
+threat,Left PAG,18.7500,-0.0569,0.0328,-0.1220,0.0082
+threat,Left PAG,20.0000,0.1340,0.0376,0.0595,0.2085
+threat,Left Posterior Caudate,0.0000,-0.0392,0.0114,-0.0618,-0.0166
+threat,Left Posterior Caudate,1.2500,-0.0945,0.0149,-0.1240,-0.0651
+threat,Left Posterior Caudate,2.5000,-0.1531,0.0198,-0.1924,-0.1138
+threat,Left Posterior Caudate,3.7500,-0.1722,0.0248,-0.2213,-0.1231
+threat,Left Posterior Caudate,5.0000,-0.1512,0.0280,-0.2066,-0.0958
+threat,Left Posterior Caudate,6.2500,-0.0977,0.0287,-0.1546,-0.0409
+threat,Left Posterior Caudate,7.5000,-0.0828,0.0282,-0.1387,-0.0269
+threat,Left Posterior Caudate,8.7500,-0.0625,0.0259,-0.1138,-0.0112
+threat,Left Posterior Caudate,10.0000,-0.0396,0.0243,-0.0878,0.0086
+threat,Left Posterior Caudate,11.2500,-0.0236,0.0238,-0.0708,0.0235
+threat,Left Posterior Caudate,12.5000,-0.0241,0.0236,-0.0708,0.0226
+threat,Left Posterior Caudate,13.7500,-0.0264,0.0218,-0.0697,0.0169
+threat,Left Posterior Caudate,15.0000,-0.0312,0.0222,-0.0752,0.0128
+threat,Left Posterior Caudate,16.2500,-0.0155,0.0221,-0.0593,0.0283
+threat,Left Posterior Caudate,17.5000,-0.0257,0.0197,-0.0648,0.0135
+threat,Left Posterior Caudate,18.7500,-0.0170,0.0212,-0.0590,0.0250
+threat,Left Posterior Caudate,20.0000,0.0024,0.0174,-0.0321,0.0370
+threat,Left Posterior Putamen,0.0000,-0.0603,0.0143,-0.0886,-0.0321
+threat,Left Posterior Putamen,1.2500,-0.0927,0.0187,-0.1297,-0.0557
+threat,Left Posterior Putamen,2.5000,-0.1560,0.0246,-0.2048,-0.1072
+threat,Left Posterior Putamen,3.7500,-0.1433,0.0284,-0.1996,-0.0869
+threat,Left Posterior Putamen,5.0000,-0.0861,0.0311,-0.1477,-0.0244
+threat,Left Posterior Putamen,6.2500,-0.0859,0.0309,-0.1471,-0.0247
+threat,Left Posterior Putamen,7.5000,-0.0835,0.0304,-0.1437,-0.0233
+threat,Left Posterior Putamen,8.7500,-0.0895,0.0265,-0.1420,-0.0369
+threat,Left Posterior Putamen,10.0000,-0.0896,0.0243,-0.1378,-0.0414
+threat,Left Posterior Putamen,11.2500,-0.0896,0.0259,-0.1409,-0.0382
+threat,Left Posterior Putamen,12.5000,-0.0834,0.0241,-0.1311,-0.0357
+threat,Left Posterior Putamen,13.7500,-0.0618,0.0256,-0.1125,-0.0110
+threat,Left Posterior Putamen,15.0000,-0.0480,0.0257,-0.0989,0.0029
+threat,Left Posterior Putamen,16.2500,-0.0408,0.0236,-0.0875,0.0060
+threat,Left Posterior Putamen,17.5000,-0.0435,0.0237,-0.0904,0.0034
+threat,Left Posterior Putamen,18.7500,-0.0148,0.0235,-0.0614,0.0318
+threat,Left Posterior Putamen,20.0000,0.1065,0.0211,0.0648,0.1483
+threat,Left Posterior Thalamus,0.0000,-0.0343,0.0102,-0.0545,-0.0141
+threat,Left Posterior Thalamus,1.2500,-0.0611,0.0114,-0.0838,-0.0384
+threat,Left Posterior Thalamus,2.5000,-0.0658,0.0113,-0.0882,-0.0433
+threat,Left Posterior Thalamus,3.7500,-0.0129,0.0136,-0.0400,0.0141
+threat,Left Posterior Thalamus,5.0000,0.0200,0.0154,-0.0104,0.0505
+threat,Left Posterior Thalamus,6.2500,-0.0072,0.0154,-0.0378,0.0234
+threat,Left Posterior Thalamus,7.5000,-0.0535,0.0166,-0.0864,-0.0206
+threat,Left Posterior Thalamus,8.7500,-0.0853,0.0164,-0.1178,-0.0527
+threat,Left Posterior Thalamus,10.0000,-0.1199,0.0171,-0.1537,-0.0861
+threat,Left Posterior Thalamus,11.2500,-0.1016,0.0175,-0.1364,-0.0669
+threat,Left Posterior Thalamus,12.5000,-0.0932,0.0158,-0.1246,-0.0619
+threat,Left Posterior Thalamus,13.7500,-0.0723,0.0150,-0.1021,-0.0425
+threat,Left Posterior Thalamus,15.0000,-0.0669,0.0162,-0.0990,-0.0348
+threat,Left Posterior Thalamus,16.2500,-0.0329,0.0157,-0.0639,-0.0018
+threat,Left Posterior Thalamus,17.5000,-0.0433,0.0153,-0.0736,-0.0131
+threat,Left Posterior Thalamus,18.7500,0.0026,0.0157,-0.0286,0.0337
+threat,Left Posterior Thalamus,20.0000,0.0908,0.0140,0.0631,0.1185
+threat,Left Ventral Striatum,0.0000,-0.0349,0.0147,-0.0640,-0.0058
+threat,Left Ventral Striatum,1.2500,-0.0586,0.0178,-0.0939,-0.0233
+threat,Left Ventral Striatum,2.5000,-0.0911,0.0198,-0.1302,-0.0519
+threat,Left Ventral Striatum,3.7500,-0.0247,0.0222,-0.0687,0.0193
+threat,Left Ventral Striatum,5.0000,-0.0234,0.0223,-0.0676,0.0208
+threat,Left Ventral Striatum,6.2500,-0.0485,0.0226,-0.0932,-0.0037
+threat,Left Ventral Striatum,7.5000,-0.0768,0.0212,-0.1189,-0.0347
+threat,Left Ventral Striatum,8.7500,-0.0960,0.0221,-0.1398,-0.0521
+threat,Left Ventral Striatum,10.0000,-0.1127,0.0224,-0.1572,-0.0683
+threat,Left Ventral Striatum,11.2500,-0.0788,0.0243,-0.1270,-0.0306
+threat,Left Ventral Striatum,12.5000,-0.0898,0.0238,-0.1369,-0.0426
+threat,Left Ventral Striatum,13.7500,-0.0896,0.0219,-0.1331,-0.0461
+threat,Left Ventral Striatum,15.0000,-0.0643,0.0218,-0.1075,-0.0211
+threat,Left Ventral Striatum,16.2500,-0.0450,0.0220,-0.0885,-0.0014
+threat,Left Ventral Striatum,17.5000,-0.0261,0.0231,-0.0719,0.0197
+threat,Left Ventral Striatum,18.7500,-0.0359,0.0227,-0.0809,0.0091
+threat,Left Ventral Striatum,20.0000,0.0305,0.0181,-0.0055,0.0664
+threat,PCC,0.0000,-0.0001,0.0197,-0.0391,0.0389
+threat,PCC,1.2500,-0.0411,0.0243,-0.0894,0.0072
+threat,PCC,2.5000,-0.1070,0.0316,-0.1697,-0.0444
+threat,PCC,3.7500,-0.1016,0.0375,-0.1759,-0.0273
+threat,PCC,5.0000,-0.1418,0.0408,-0.2227,-0.0609
+threat,PCC,6.2500,-0.1395,0.0419,-0.2225,-0.0564
+threat,PCC,7.5000,-0.2356,0.0462,-0.3272,-0.1439
+threat,PCC,8.7500,-0.2606,0.0466,-0.3530,-0.1681
+threat,PCC,10.0000,-0.2514,0.0420,-0.3347,-0.1681
+threat,PCC,11.2500,-0.2196,0.0435,-0.3058,-0.1334
+threat,PCC,12.5000,-0.1939,0.0454,-0.2840,-0.1039
+threat,PCC,13.7500,-0.1666,0.0442,-0.2543,-0.0789
+threat,PCC,15.0000,-0.1425,0.0381,-0.2180,-0.0670
+threat,PCC,16.2500,-0.1208,0.0375,-0.1951,-0.0465
+threat,PCC,17.5000,-0.0878,0.0370,-0.1612,-0.0144
+threat,PCC,18.7500,-0.0753,0.0319,-0.1385,-0.0121
+threat,PCC,20.0000,-0.0230,0.0257,-0.0740,0.0280
+threat,PCC/precuneus,0.0000,-0.0372,0.0245,-0.0859,0.0114
+threat,PCC/precuneus,1.2500,-0.0269,0.0339,-0.0942,0.0403
+threat,PCC/precuneus,2.5000,-0.0788,0.0411,-0.1603,0.0027
+threat,PCC/precuneus,3.7500,-0.1530,0.0494,-0.2509,-0.0550
+threat,PCC/precuneus,5.0000,-0.2688,0.0517,-0.3712,-0.1663
+threat,PCC/precuneus,6.2500,-0.3717,0.0517,-0.4742,-0.2693
+threat,PCC/precuneus,7.5000,-0.4089,0.0480,-0.5040,-0.3138
+threat,PCC/precuneus,8.7500,-0.3981,0.0480,-0.4932,-0.3030
+threat,PCC/precuneus,10.0000,-0.3216,0.0501,-0.4210,-0.2223
+threat,PCC/precuneus,11.2500,-0.2549,0.0522,-0.3584,-0.1514
+threat,PCC/precuneus,12.5000,-0.1919,0.0508,-0.2925,-0.0912
+threat,PCC/precuneus,13.7500,-0.1572,0.0489,-0.2541,-0.0602
+threat,PCC/precuneus,15.0000,-0.1277,0.0471,-0.2211,-0.0343
+threat,PCC/precuneus,16.2500,-0.0746,0.0436,-0.1611,0.0119
+threat,PCC/precuneus,17.5000,-0.0864,0.0400,-0.1657,-0.0070
+threat,PCC/precuneus,18.7500,-0.0356,0.0371,-0.1091,0.0379
+threat,PCC/precuneus,20.0000,-0.0515,0.0292,-0.1093,0.0064
+threat,Right AntDorsal Insula,0.0000,-0.0325,0.0097,-0.0518,-0.0132
+threat,Right AntDorsal Insula,1.2500,-0.0632,0.0114,-0.0858,-0.0405
+threat,Right AntDorsal Insula,2.5000,-0.0380,0.0146,-0.0670,-0.0090
+threat,Right AntDorsal Insula,3.7500,0.0628,0.0152,0.0326,0.0930
+threat,Right AntDorsal Insula,5.0000,0.1291,0.0166,0.0961,0.1620
+threat,Right AntDorsal Insula,6.2500,0.1121,0.0165,0.0794,0.1449
+threat,Right AntDorsal Insula,7.5000,0.0722,0.0159,0.0407,0.1038
+threat,Right AntDorsal Insula,8.7500,0.0469,0.0158,0.0157,0.0782
+threat,Right AntDorsal Insula,10.0000,0.0270,0.0165,-0.0057,0.0597
+threat,Right AntDorsal Insula,11.2500,0.0134,0.0169,-0.0200,0.0468
+threat,Right AntDorsal Insula,12.5000,-0.0002,0.0166,-0.0330,0.0327
+threat,Right AntDorsal Insula,13.7500,-0.0021,0.0154,-0.0326,0.0284
+threat,Right AntDorsal Insula,15.0000,0.0088,0.0156,-0.0222,0.0398
+threat,Right AntDorsal Insula,16.2500,0.0090,0.0165,-0.0238,0.0417
+threat,Right AntDorsal Insula,17.5000,-0.0151,0.0150,-0.0449,0.0146
+threat,Right AntDorsal Insula,18.7500,0.0223,0.0143,-0.0060,0.0506
+threat,Right AntDorsal Insula,20.0000,0.1070,0.0121,0.0830,0.1311
+threat,Right AntVentral Insula,0.0000,-0.0392,0.0139,-0.0667,-0.0118
+threat,Right AntVentral Insula,1.2500,-0.0276,0.0190,-0.0652,0.0100
+threat,Right AntVentral Insula,2.5000,-0.0397,0.0225,-0.0844,0.0050
+threat,Right AntVentral Insula,3.7500,0.0342,0.0238,-0.0130,0.0815
+threat,Right AntVentral Insula,5.0000,0.0828,0.0239,0.0355,0.1300
+threat,Right AntVentral Insula,6.2500,0.0743,0.0228,0.0291,0.1195
+threat,Right AntVentral Insula,7.5000,0.0506,0.0235,0.0040,0.0971
+threat,Right AntVentral Insula,8.7500,0.0172,0.0229,-0.0281,0.0625
+threat,Right AntVentral Insula,10.0000,0.0169,0.0226,-0.0278,0.0617
+threat,Right AntVentral Insula,11.2500,0.0009,0.0213,-0.0413,0.0432
+threat,Right AntVentral Insula,12.5000,0.0172,0.0210,-0.0245,0.0588
+threat,Right AntVentral Insula,13.7500,0.0093,0.0198,-0.0299,0.0485
+threat,Right AntVentral Insula,15.0000,-0.0035,0.0191,-0.0413,0.0343
+threat,Right AntVentral Insula,16.2500,0.0079,0.0201,-0.0319,0.0477
+threat,Right AntVentral Insula,17.5000,-0.0085,0.0189,-0.0459,0.0289
+threat,Right AntVentral Insula,18.7500,0.0405,0.0221,-0.0034,0.0844
+threat,Right AntVentral Insula,20.0000,0.1311,0.0184,0.0947,0.1675
+threat,Right Anterior Caudate,0.0000,-0.0411,0.0097,-0.0604,-0.0219
+threat,Right Anterior Caudate,1.2500,-0.0766,0.0142,-0.1049,-0.0484
+threat,Right Anterior Caudate,2.5000,-0.0889,0.0173,-0.1231,-0.0546
+threat,Right Anterior Caudate,3.7500,-0.0244,0.0214,-0.0668,0.0179
+threat,Right Anterior Caudate,5.0000,0.0262,0.0239,-0.0212,0.0736
+threat,Right Anterior Caudate,6.2500,0.0244,0.0261,-0.0274,0.0762
+threat,Right Anterior Caudate,7.5000,0.0051,0.0245,-0.0434,0.0537
+threat,Right Anterior Caudate,8.7500,-0.0081,0.0226,-0.0528,0.0367
+threat,Right Anterior Caudate,10.0000,-0.0359,0.0216,-0.0788,0.0069
+threat,Right Anterior Caudate,11.2500,-0.0298,0.0222,-0.0738,0.0143
+threat,Right Anterior Caudate,12.5000,-0.0369,0.0201,-0.0768,0.0029
+threat,Right Anterior Caudate,13.7500,-0.0412,0.0197,-0.0802,-0.0022
+threat,Right Anterior Caudate,15.0000,-0.0329,0.0201,-0.0727,0.0070
+threat,Right Anterior Caudate,16.2500,-0.0107,0.0190,-0.0484,0.0270
+threat,Right Anterior Caudate,17.5000,-0.0186,0.0190,-0.0564,0.0191
+threat,Right Anterior Caudate,18.7500,-0.0015,0.0185,-0.0382,0.0353
+threat,Right Anterior Caudate,20.0000,0.0340,0.0141,0.0060,0.0619
+threat,Right Anterior MCC,0.0000,-0.0334,0.0101,-0.0534,-0.0134
+threat,Right Anterior MCC,1.2500,-0.0639,0.0152,-0.0940,-0.0337
+threat,Right Anterior MCC,2.5000,-0.0620,0.0190,-0.0997,-0.0244
+threat,Right Anterior MCC,3.7500,0.0970,0.0241,0.0493,0.1446
+threat,Right Anterior MCC,5.0000,0.2089,0.0282,0.1530,0.2647
+threat,Right Anterior MCC,6.2500,0.2013,0.0298,0.1423,0.2604
+threat,Right Anterior MCC,7.5000,0.1271,0.0297,0.0683,0.1859
+threat,Right Anterior MCC,8.7500,0.0507,0.0266,-0.0020,0.1034
+threat,Right Anterior MCC,10.0000,-0.0100,0.0250,-0.0595,0.0396
+threat,Right Anterior MCC,11.2500,-0.0374,0.0242,-0.0853,0.0105
+threat,Right Anterior MCC,12.5000,-0.0476,0.0237,-0.0946,-0.0007
+threat,Right Anterior MCC,13.7500,-0.0449,0.0209,-0.0862,-0.0036
+threat,Right Anterior MCC,15.0000,-0.0561,0.0198,-0.0953,-0.0170
+threat,Right Anterior MCC,16.2500,-0.0464,0.0202,-0.0864,-0.0064
+threat,Right Anterior MCC,17.5000,-0.0575,0.0202,-0.0976,-0.0174
+threat,Right Anterior MCC,18.7500,-0.0636,0.0201,-0.1036,-0.0237
+threat,Right Anterior MCC,20.0000,0.0513,0.0158,0.0199,0.0826
+threat,Right Anterior Putamen,0.0000,-0.0255,0.0094,-0.0441,-0.0069
+threat,Right Anterior Putamen,1.2500,-0.0636,0.0126,-0.0886,-0.0386
+threat,Right Anterior Putamen,2.5000,-0.0756,0.0156,-0.1065,-0.0446
+threat,Right Anterior Putamen,3.7500,-0.0211,0.0183,-0.0574,0.0152
+threat,Right Anterior Putamen,5.0000,0.0516,0.0196,0.0127,0.0905
+threat,Right Anterior Putamen,6.2500,0.0553,0.0196,0.0163,0.0942
+threat,Right Anterior Putamen,7.5000,0.0430,0.0185,0.0063,0.0797
+threat,Right Anterior Putamen,8.7500,0.0280,0.0171,-0.0059,0.0619
+threat,Right Anterior Putamen,10.0000,0.0198,0.0163,-0.0125,0.0521
+threat,Right Anterior Putamen,11.2500,0.0079,0.0168,-0.0253,0.0411
+threat,Right Anterior Putamen,12.5000,0.0061,0.0157,-0.0249,0.0372
+threat,Right Anterior Putamen,13.7500,0.0110,0.0161,-0.0210,0.0430
+threat,Right Anterior Putamen,15.0000,0.0098,0.0167,-0.0234,0.0429
+threat,Right Anterior Putamen,16.2500,0.0179,0.0160,-0.0138,0.0497
+threat,Right Anterior Putamen,17.5000,0.0017,0.0157,-0.0295,0.0329
+threat,Right Anterior Putamen,18.7500,-0.0148,0.0157,-0.0460,0.0163
+threat,Right Anterior Putamen,20.0000,0.0510,0.0128,0.0257,0.0763
+threat,Right Anterior Thalamus,0.0000,-0.0334,0.0098,-0.0529,-0.0140
+threat,Right Anterior Thalamus,1.2500,-0.0873,0.0134,-0.1138,-0.0609
+threat,Right Anterior Thalamus,2.5000,-0.1115,0.0166,-0.1444,-0.0785
+threat,Right Anterior Thalamus,3.7500,-0.0498,0.0196,-0.0887,-0.0109
+threat,Right Anterior Thalamus,5.0000,0.0235,0.0238,-0.0236,0.0706
+threat,Right Anterior Thalamus,6.2500,0.0526,0.0260,0.0011,0.1042
+threat,Right Anterior Thalamus,7.5000,0.0110,0.0279,-0.0443,0.0663
+threat,Right Anterior Thalamus,8.7500,-0.0080,0.0260,-0.0595,0.0435
+threat,Right Anterior Thalamus,10.0000,-0.0460,0.0232,-0.0921,0.0001
+threat,Right Anterior Thalamus,11.2500,-0.0687,0.0257,-0.1196,-0.0178
+threat,Right Anterior Thalamus,12.5000,-0.0831,0.0217,-0.1260,-0.0401
+threat,Right Anterior Thalamus,13.7500,-0.0877,0.0205,-0.1284,-0.0471
+threat,Right Anterior Thalamus,15.0000,-0.0790,0.0200,-0.1187,-0.0394
+threat,Right Anterior Thalamus,16.2500,-0.0695,0.0185,-0.1062,-0.0329
+threat,Right Anterior Thalamus,17.5000,-0.0720,0.0176,-0.1069,-0.0371
+threat,Right Anterior Thalamus,18.7500,-0.0437,0.0183,-0.0799,-0.0076
+threat,Right Anterior Thalamus,20.0000,0.0242,0.0150,-0.0056,0.0540
+threat,Right BLBM Amygdala,0.0000,-0.0047,0.0242,-0.0527,0.0432
+threat,Right BLBM Amygdala,1.2500,0.0125,0.0477,-0.0820,0.1071
+threat,Right BLBM Amygdala,2.5000,0.0252,0.0391,-0.0523,0.1026
+threat,Right BLBM Amygdala,3.7500,0.0434,0.0382,-0.0324,0.1192
+threat,Right BLBM Amygdala,5.0000,-0.0251,0.0368,-0.0982,0.0479
+threat,Right BLBM Amygdala,6.2500,-0.0485,0.0359,-0.1196,0.0226
+threat,Right BLBM Amygdala,7.5000,0.0358,0.0755,-0.1139,0.1855
+threat,Right BLBM Amygdala,8.7500,-0.0804,0.0345,-0.1488,-0.0120
+threat,Right BLBM Amygdala,10.0000,-0.0006,0.0478,-0.0954,0.0942
+threat,Right BLBM Amygdala,11.2500,-0.0291,0.0461,-0.1205,0.0622
+threat,Right BLBM Amygdala,12.5000,-0.0623,0.0388,-0.1393,0.0146
+threat,Right BLBM Amygdala,13.7500,-0.0261,0.0288,-0.0831,0.0309
+threat,Right BLBM Amygdala,15.0000,0.0152,0.0419,-0.0678,0.0982
+threat,Right BLBM Amygdala,16.2500,-0.0289,0.0335,-0.0953,0.0375
+threat,Right BLBM Amygdala,17.5000,0.0327,0.0515,-0.0693,0.1347
+threat,Right BLBM Amygdala,18.7500,0.0486,0.0401,-0.0308,0.1281
+threat,Right BLBM Amygdala,20.0000,0.0589,0.0379,-0.0161,0.1340
+threat,Right BST,0.0000,-0.0836,0.0385,-0.1600,-0.0073
+threat,Right BST,1.2500,-0.0996,0.0372,-0.1733,-0.0259
+threat,Right BST,2.5000,-0.0470,0.0465,-0.1392,0.0451
+threat,Right BST,3.7500,0.0690,0.0467,-0.0235,0.1616
+threat,Right BST,5.0000,0.2451,0.0524,0.1411,0.3490
+threat,Right BST,6.2500,0.1512,0.0536,0.0449,0.2574
+threat,Right BST,7.5000,0.0985,0.0494,0.0007,0.1964
+threat,Right BST,8.7500,0.0201,0.0470,-0.0730,0.1132
+threat,Right BST,10.0000,-0.0334,0.0469,-0.1264,0.0597
+threat,Right BST,11.2500,-0.1112,0.0514,-0.2130,-0.0094
+threat,Right BST,12.5000,-0.1175,0.0479,-0.2125,-0.0225
+threat,Right BST,13.7500,-0.1580,0.0492,-0.2556,-0.0604
+threat,Right BST,15.0000,-0.0780,0.0488,-0.1748,0.0188
+threat,Right BST,16.2500,-0.0549,0.0550,-0.1640,0.0542
+threat,Right BST,17.5000,-0.0367,0.0560,-0.1478,0.0743
+threat,Right BST,18.7500,-0.0328,0.0449,-0.1219,0.0562
+threat,Right BST,20.0000,0.0984,0.0439,0.0114,0.1853
+threat,Right CeMe Amygdala,0.0000,-0.0603,0.0243,-0.1084,-0.0122
+threat,Right CeMe Amygdala,1.2500,-0.0661,0.0307,-0.1270,-0.0052
+threat,Right CeMe Amygdala,2.5000,-0.0687,0.0315,-0.1311,-0.0062
+threat,Right CeMe Amygdala,3.7500,-0.0520,0.0298,-0.1111,0.0071
+threat,Right CeMe Amygdala,5.0000,-0.0520,0.0303,-0.1121,0.0081
+threat,Right CeMe Amygdala,6.2500,-0.0458,0.0318,-0.1089,0.0173
+threat,Right CeMe Amygdala,7.5000,-0.1069,0.0300,-0.1664,-0.0473
+threat,Right CeMe Amygdala,8.7500,-0.1409,0.0308,-0.2021,-0.0798
+threat,Right CeMe Amygdala,10.0000,-0.1181,0.0310,-0.1796,-0.0567
+threat,Right CeMe Amygdala,11.2500,-0.1201,0.0343,-0.1881,-0.0521
+threat,Right CeMe Amygdala,12.5000,-0.1142,0.0331,-0.1798,-0.0485
+threat,Right CeMe Amygdala,13.7500,-0.1141,0.0356,-0.1847,-0.0435
+threat,Right CeMe Amygdala,15.0000,-0.0457,0.0320,-0.1092,0.0178
+threat,Right CeMe Amygdala,16.2500,-0.0537,0.0328,-0.1187,0.0113
+threat,Right CeMe Amygdala,17.5000,-0.0245,0.0301,-0.0841,0.0350
+threat,Right CeMe Amygdala,18.7500,-0.0677,0.0336,-0.1344,-0.0011
+threat,Right CeMe Amygdala,20.0000,-0.0165,0.0302,-0.0763,0.0433
+threat,Right Hypothalamus,0.0000,0.0044,0.0391,-0.0731,0.0818
+threat,Right Hypothalamus,1.2500,-0.0016,0.0346,-0.0703,0.0670
+threat,Right Hypothalamus,2.5000,0.0043,0.0549,-0.1045,0.1132
+threat,Right Hypothalamus,3.7500,0.1099,0.0429,0.0249,0.1949
+threat,Right Hypothalamus,5.0000,0.0095,0.0462,-0.0821,0.1012
+threat,Right Hypothalamus,6.2500,0.0481,0.0419,-0.0351,0.1312
+threat,Right Hypothalamus,7.5000,0.0276,0.0441,-0.0599,0.1151
+threat,Right Hypothalamus,8.7500,0.0818,0.0598,-0.0367,0.2003
+threat,Right Hypothalamus,10.0000,0.0574,0.0431,-0.0280,0.1428
+threat,Right Hypothalamus,11.2500,-0.0125,0.0528,-0.1173,0.0922
+threat,Right Hypothalamus,12.5000,-0.0224,0.0513,-0.1240,0.0793
+threat,Right Hypothalamus,13.7500,0.0131,0.0496,-0.0851,0.1114
+threat,Right Hypothalamus,15.0000,-0.0173,0.0465,-0.1094,0.0749
+threat,Right Hypothalamus,16.2500,-0.0821,0.0418,-0.1650,0.0009
+threat,Right Hypothalamus,17.5000,-0.0461,0.0449,-0.1352,0.0429
+threat,Right Hypothalamus,18.7500,-0.0198,0.0400,-0.0992,0.0595
+threat,Right Hypothalamus,20.0000,0.0163,0.0370,-0.0569,0.0896
+threat,Right MidPost Insula,0.0000,-0.0195,0.0089,-0.0372,-0.0018
+threat,Right MidPost Insula,1.2500,-0.0475,0.0127,-0.0727,-0.0223
+threat,Right MidPost Insula,2.5000,-0.0545,0.0152,-0.0847,-0.0243
+threat,Right MidPost Insula,3.7500,-0.0343,0.0174,-0.0687,0.0001
+threat,Right MidPost Insula,5.0000,0.0109,0.0179,-0.0246,0.0463
+threat,Right MidPost Insula,6.2500,0.0013,0.0190,-0.0364,0.0391
+threat,Right MidPost Insula,7.5000,-0.0351,0.0196,-0.0739,0.0038
+threat,Right MidPost Insula,8.7500,-0.0419,0.0185,-0.0786,-0.0052
+threat,Right MidPost Insula,10.0000,-0.0532,0.0181,-0.0891,-0.0172
+threat,Right MidPost Insula,11.2500,-0.0523,0.0167,-0.0854,-0.0192
+threat,Right MidPost Insula,12.5000,-0.0453,0.0157,-0.0765,-0.0142
+threat,Right MidPost Insula,13.7500,-0.0350,0.0143,-0.0633,-0.0067
+threat,Right MidPost Insula,15.0000,-0.0332,0.0143,-0.0617,-0.0048
+threat,Right MidPost Insula,16.2500,-0.0195,0.0141,-0.0474,0.0083
+threat,Right MidPost Insula,17.5000,-0.0189,0.0132,-0.0450,0.0073
+threat,Right MidPost Insula,18.7500,-0.0123,0.0137,-0.0394,0.0147
+threat,Right MidPost Insula,20.0000,0.0350,0.0100,0.0152,0.0548
+threat,Right PAG,0.0000,-0.0261,0.0290,-0.0836,0.0315
+threat,Right PAG,1.2500,-0.0719,0.0391,-0.1493,0.0055
+threat,Right PAG,2.5000,-0.0020,0.0395,-0.0804,0.0764
+threat,Right PAG,3.7500,0.0852,0.0407,0.0046,0.1658
+threat,Right PAG,5.0000,0.0231,0.0367,-0.0497,0.0958
+threat,Right PAG,6.2500,-0.0152,0.0385,-0.0915,0.0611
+threat,Right PAG,7.5000,0.0122,0.0403,-0.0677,0.0921
+threat,Right PAG,8.7500,0.0323,0.0393,-0.0455,0.1101
+threat,Right PAG,10.0000,-0.0289,0.0380,-0.1042,0.0464
+threat,Right PAG,11.2500,0.0010,0.0389,-0.0760,0.0780
+threat,Right PAG,12.5000,-0.0165,0.0374,-0.0907,0.0577
+threat,Right PAG,13.7500,-0.0336,0.0362,-0.1054,0.0381
+threat,Right PAG,15.0000,-0.0020,0.0348,-0.0710,0.0669
+threat,Right PAG,16.2500,-0.0105,0.0343,-0.0785,0.0575
+threat,Right PAG,17.5000,0.0201,0.0391,-0.0575,0.0977
+threat,Right PAG,18.7500,0.0283,0.0407,-0.0523,0.1090
+threat,Right PAG,20.0000,0.1385,0.0335,0.0720,0.2050
+threat,Right Posterior Caudate,0.0000,-0.0506,0.0165,-0.0833,-0.0178
+threat,Right Posterior Caudate,1.2500,-0.1050,0.0182,-0.1412,-0.0689
+threat,Right Posterior Caudate,2.5000,-0.1860,0.0218,-0.2293,-0.1427
+threat,Right Posterior Caudate,3.7500,-0.2366,0.0245,-0.2852,-0.1879
+threat,Right Posterior Caudate,5.0000,-0.2419,0.0308,-0.3030,-0.1809
+threat,Right Posterior Caudate,6.2500,-0.1949,0.0320,-0.2584,-0.1314
+threat,Right Posterior Caudate,7.5000,-0.1394,0.0331,-0.2049,-0.0738
+threat,Right Posterior Caudate,8.7500,-0.1078,0.0311,-0.1696,-0.0461
+threat,Right Posterior Caudate,10.0000,-0.0464,0.0279,-0.1017,0.0089
+threat,Right Posterior Caudate,11.2500,-0.0370,0.0284,-0.0934,0.0194
+threat,Right Posterior Caudate,12.5000,-0.0534,0.0291,-0.1110,0.0042
+threat,Right Posterior Caudate,13.7500,-0.0622,0.0265,-0.1148,-0.0097
+threat,Right Posterior Caudate,15.0000,-0.0711,0.0256,-0.1218,-0.0204
+threat,Right Posterior Caudate,16.2500,-0.0638,0.0248,-0.1130,-0.0146
+threat,Right Posterior Caudate,17.5000,-0.0611,0.0234,-0.1074,-0.0147
+threat,Right Posterior Caudate,18.7500,-0.0518,0.0248,-0.1009,-0.0027
+threat,Right Posterior Caudate,20.0000,-0.0253,0.0207,-0.0663,0.0157
+threat,Right Posterior Putamen,0.0000,-0.0353,0.0110,-0.0571,-0.0135
+threat,Right Posterior Putamen,1.2500,-0.0766,0.0151,-0.1064,-0.0468
+threat,Right Posterior Putamen,2.5000,-0.1069,0.0179,-0.1423,-0.0715
+threat,Right Posterior Putamen,3.7500,-0.0842,0.0196,-0.1230,-0.0455
+threat,Right Posterior Putamen,5.0000,-0.0215,0.0216,-0.0642,0.0213
+threat,Right Posterior Putamen,6.2500,-0.0012,0.0247,-0.0501,0.0477
+threat,Right Posterior Putamen,7.5000,-0.0057,0.0221,-0.0494,0.0380
+threat,Right Posterior Putamen,8.7500,-0.0184,0.0215,-0.0610,0.0242
+threat,Right Posterior Putamen,10.0000,-0.0190,0.0199,-0.0584,0.0203
+threat,Right Posterior Putamen,11.2500,-0.0272,0.0211,-0.0691,0.0146
+threat,Right Posterior Putamen,12.5000,-0.0156,0.0193,-0.0538,0.0226
+threat,Right Posterior Putamen,13.7500,-0.0133,0.0192,-0.0513,0.0247
+threat,Right Posterior Putamen,15.0000,-0.0004,0.0195,-0.0390,0.0382
+threat,Right Posterior Putamen,16.2500,-0.0049,0.0181,-0.0408,0.0309
+threat,Right Posterior Putamen,17.5000,-0.0002,0.0179,-0.0356,0.0353
+threat,Right Posterior Putamen,18.7500,-0.0041,0.0172,-0.0382,0.0299
+threat,Right Posterior Putamen,20.0000,0.0319,0.0148,0.0027,0.0612
+threat,Right Posterior Thalamus,0.0000,-0.0270,0.0090,-0.0448,-0.0091
+threat,Right Posterior Thalamus,1.2500,-0.0640,0.0124,-0.0886,-0.0394
+threat,Right Posterior Thalamus,2.5000,-0.0614,0.0138,-0.0887,-0.0342
+threat,Right Posterior Thalamus,3.7500,-0.0068,0.0162,-0.0389,0.0253
+threat,Right Posterior Thalamus,5.0000,0.0393,0.0157,0.0081,0.0704
+threat,Right Posterior Thalamus,6.2500,0.0226,0.0160,-0.0091,0.0542
+threat,Right Posterior Thalamus,7.5000,-0.0266,0.0154,-0.0571,0.0038
+threat,Right Posterior Thalamus,8.7500,-0.0539,0.0160,-0.0857,-0.0222
+threat,Right Posterior Thalamus,10.0000,-0.0953,0.0150,-0.1251,-0.0655
+threat,Right Posterior Thalamus,11.2500,-0.1063,0.0185,-0.1430,-0.0695
+threat,Right Posterior Thalamus,12.5000,-0.0927,0.0166,-0.1257,-0.0598
+threat,Right Posterior Thalamus,13.7500,-0.0824,0.0148,-0.1116,-0.0532
+threat,Right Posterior Thalamus,15.0000,-0.0589,0.0155,-0.0897,-0.0281
+threat,Right Posterior Thalamus,16.2500,-0.0345,0.0139,-0.0620,-0.0070
+threat,Right Posterior Thalamus,17.5000,-0.0319,0.0148,-0.0612,-0.0027
+threat,Right Posterior Thalamus,18.7500,0.0017,0.0141,-0.0262,0.0295
+threat,Right Posterior Thalamus,20.0000,0.0717,0.0131,0.0457,0.0976
+threat,Right Ventral Striatum,0.0000,-0.0389,0.0138,-0.0663,-0.0114
+threat,Right Ventral Striatum,1.2500,-0.0663,0.0182,-0.1023,-0.0303
+threat,Right Ventral Striatum,2.5000,-0.0919,0.0225,-0.1365,-0.0474
+threat,Right Ventral Striatum,3.7500,-0.0311,0.0222,-0.0751,0.0130
+threat,Right Ventral Striatum,5.0000,-0.0495,0.0236,-0.0964,-0.0026
+threat,Right Ventral Striatum,6.2500,-0.0551,0.0256,-0.1059,-0.0043
+threat,Right Ventral Striatum,7.5000,-0.0972,0.0238,-0.1443,-0.0501
+threat,Right Ventral Striatum,8.7500,-0.0972,0.0244,-0.1455,-0.0489
+threat,Right Ventral Striatum,10.0000,-0.1416,0.0239,-0.1891,-0.0942
+threat,Right Ventral Striatum,11.2500,-0.1283,0.0232,-0.1742,-0.0824
+threat,Right Ventral Striatum,12.5000,-0.1307,0.0206,-0.1715,-0.0900
+threat,Right Ventral Striatum,13.7500,-0.1165,0.0233,-0.1627,-0.0703
+threat,Right Ventral Striatum,15.0000,-0.1041,0.0215,-0.1468,-0.0615
+threat,Right Ventral Striatum,16.2500,-0.0758,0.0213,-0.1181,-0.0336
+threat,Right Ventral Striatum,17.5000,-0.0766,0.0208,-0.1178,-0.0354
+threat,Right Ventral Striatum,18.7500,-0.0572,0.0237,-0.1041,-0.0102
+threat,Right Ventral Striatum,20.0000,0.0258,0.0174,-0.0086,0.0602
+threat,vmPFC,0.0000,-0.0067,0.0171,-0.0406,0.0273
+threat,vmPFC,1.2500,0.0139,0.0243,-0.0343,0.0621
+threat,vmPFC,2.5000,-0.0116,0.0260,-0.0632,0.0399
+threat,vmPFC,3.7500,-0.0383,0.0295,-0.0968,0.0202
+threat,vmPFC,5.0000,-0.1018,0.0302,-0.1617,-0.0419
+threat,vmPFC,6.2500,-0.1767,0.0321,-0.2404,-0.1131
+threat,vmPFC,7.5000,-0.2171,0.0318,-0.2802,-0.1540
+threat,vmPFC,8.7500,-0.2001,0.0319,-0.2633,-0.1368
+threat,vmPFC,10.0000,-0.1538,0.0323,-0.2178,-0.0899
+threat,vmPFC,11.2500,-0.1477,0.0313,-0.2098,-0.0856
+threat,vmPFC,12.5000,-0.0884,0.0318,-0.1513,-0.0254
+threat,vmPFC,13.7500,-0.0689,0.0297,-0.1278,-0.0099
+threat,vmPFC,15.0000,-0.0485,0.0321,-0.1121,0.0151
+threat,vmPFC,16.2500,-0.0148,0.0316,-0.0775,0.0479
+threat,vmPFC,17.5000,-0.0261,0.0315,-0.0886,0.0363
+threat,vmPFC,18.7500,-0.0124,0.0304,-0.0728,0.0479
+threat,vmPFC,20.0000,0.0323,0.0205,-0.0082,0.0728
